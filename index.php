@@ -183,26 +183,28 @@
 			<h3 class="clr2"><pl>KURSY I CERTYFIKATY</pl><an>COURSES AND CERTIFICATES</an></h3>
 			<div class="skill_list">
 			
-				<div class="ul_margines ul_margines_CERT">
+				<div class="ul_margines ul_margines_CERT demibold">
 					<ul>
-						<li><pl>Kurs programowania i analizy zabezpieczeń wewnątrzsieciowych - Pałac Kultury i Nauki</pl>
-							<an>Programming and analysis course for intra-network security - Palace of Culture and Science</an></li>
-						<li><pl>Kurs grafiki komputerowej – Corel Draw/Photoshop – Centrum aktywizacji zawodowej s.c.</pl>
-							<an>Computer graphics course - Corel Draw / Photoshop - Center for professional activation sc</an></li>
-						<li><pl>Kurs IBM Fundamental System Skills in z/OS</pl>
-							<an>IBM Fundamental System Skills in z / OS course</an></li>
-						<li><pl>Kurs IBM z/OS JCL and Utilities</pl>
-							<an>IBM z / OS JCL and Utilities course</an></li>
-						<li><pl>Certyfikat ECDL nr. PL-0116993</pl>
-							<an>ECDL certificate no. EN-0116993</an></li>
-						<li><pl>Certyfikat ukończenia szkolenia Zarządzanie Ryzykiem Operacyjnym</pl>
-							<an>Certificate of training completion. Operational Risk Management</an></li>
-						<li><pl>Certyfikat ukończenia szkolenia Wymagania w zakresie ochrony danych osobowych</pl>
-							<an>Certificate of training completion. Requirements for the protection of personal data</an></li>
-						<li><pl>Certyfikat ukończenia szkolenia System Zarządzania Ciągłością Działania (ISO 22301)</pl>
-							<an>Certificate of completion of the Business Continuity Management System (ISO 22301)</an></li>
-						<li><pl>Certyfikat ukończenia szkolenia Przeciwdziałania Praniu Brudnych Pieniędzy</pl>
-							<an>Certificate of completing the Anti-Money Laundering Training</an></li>
+						<li><pl>Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b> - Pałac Kultury i Nauki</pl>
+							<an><b>Programming and analysis course for intra-network security</b> - Palace of Culture and Science</an></li>
+						<li><pl>Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b> – Centrum aktywizacji zawodowej s.c.</pl>
+							<an>Computer graphics course - <b>Corel Draw / Photoshop</b> - Center for professional activation sc</an></li>
+						<li><pl>Kurs IBM Fundamental System Skills in <b>z/OS</b></pl>
+							<an>IBM Fundamental System Skills in <b>z/OS</b> course</an></li>
+						<li><pl>Kurs IBM <b>z/OS JCL and Utilities</b></pl>
+							<an>IBM </b>z/OS JCL and Utilities course</b></an></li>
+						<li><pl>Certyfikat <b>ECDL</b> nr. PL-0116993</pl>
+							<an><b>ECDL</b> certificate no. EN-0116993</an></li>
+						<li><pl>Certyfikat ukończenia szkolenia <b>Komunikacja i współpraca</b></pl>
+							<an>Certificate of training completion <b>Communication and cooperation</b></an></li>
+						<li><pl>Certyfikat ukończenia szkolenia <b>Zarządzanie Ryzykiem Operacyjnym</b></pl>
+							<an>Certificate of training completion <b>Operational Risk Management</b></an></li>
+						<li><pl>Certyfikat ukończenia szkolenia <b>Wymagania w zakresie ochrony danych osobowych</b></pl>
+							<an>Certificate of training completion <b>Requirements for the protection of personal data</b></an></li>
+						<li><pl>Certyfikat ukończenia szkolenia <b>System Zarządzania Ciągłością Działania (ISO 22301)</b></pl>
+							<an>Certificate of completion of the <b>Business Continuity Management System (ISO 22301)</b></an></li>
+						<li><pl>Certyfikat ukończenia szkolenia <b>Przeciwdziałania Praniu Brudnych Pieniędzy</b></pl>
+							<an>Certificate of completing the <b>Anti-Money Laundering Training</b></an></li>
 					</ul>
 				</div>
 			</div>
@@ -213,7 +215,7 @@
 		<div class="skills">
 			<h3 class="clr2"><pl>DODATKOWE UMIEJĘTNOŚCI</pl><an>ADDITIONAL SKILLS</an></h3>
 			<div class="skill_list">
-				<div class="ul_margines ul_margines_CERT">
+				<div class="ul_margines ul_margines_CERT demibold">
 					<ul>
 						<li><pl>łatwość pracy w grupie i nawiązywania nowych kontaktów</pl><an>ease of working in a group and making new contacts</an></li>
 						<li><pl>umiejętność analitycznego i abstrakcyjnego myślenia</pl><an>the skill of analytical and abstract thinking</an></li>
