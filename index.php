@@ -29,8 +29,8 @@
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
 						<ul>
-							<li><pl>tworzenie i utrzymanie infrastruktury monitorującej</pl>
-								<an>creation and maintenance of monitoring infrastructure</an></li>
+							<li><pl>tworzenie i utrzymanie narzędzie do monitoringu infrastruktury informatycznej banku</pl>
+								<an>creating and maintaining a tool for monitoring the bank's IT infrastructure</an></li>
 							<li></li>
 							
 						</ul>
@@ -195,16 +195,16 @@
 							<an>IBM </b>z/OS JCL and Utilities course</b></an></li>
 						<li><pl>Certyfikat <b>ECDL</b> nr. PL-0116993</pl>
 							<an><b>ECDL</b> certificate no. EN-0116993</an></li>
-						<li><pl>Certyfikat ukończenia szkolenia <b>Komunikacja i współpraca</b></pl>
-							<an>Certificate of training completion <b>Communication and cooperation</b></an></li>
-						<li><pl>Certyfikat ukończenia szkolenia <b>Zarządzanie Ryzykiem Operacyjnym</b></pl>
-							<an>Certificate of training completion <b>Operational Risk Management</b></an></li>
-						<li><pl>Certyfikat ukończenia szkolenia <b>Wymagania w zakresie ochrony danych osobowych</b></pl>
-							<an>Certificate of training completion <b>Requirements for the protection of personal data</b></an></li>
-						<li><pl>Certyfikat ukończenia szkolenia <b>System Zarządzania Ciągłością Działania (ISO 22301)</b></pl>
-							<an>Certificate of completion of the <b>Business Continuity Management System (ISO 22301)</b></an></li>
-						<li><pl>Certyfikat ukończenia szkolenia <b>Przeciwdziałania Praniu Brudnych Pieniędzy</b></pl>
-							<an>Certificate of completing the <b>Anti-Money Laundering Training</b></an></li>
+						<li><pl>Szkolenie <b>Komunikacja i współpraca</b></pl>
+							<an>Training <b>Communication and cooperation</b></an></li>
+						<li><pl>Szkolenie <b>Zarządzanie Ryzykiem Operacyjnym</b></pl>
+							<an>Training <b>Operational Risk Management</b></an></li>
+						<li><pl>Szkolenie <b>Wymagania w zakresie ochrony danych osobowych</b></pl>
+							<an>Training <b>Requirements for the protection of personal data</b></an></li>
+						<li><pl>Szkolenie <b>System Zarządzania Ciągłością Działania (ISO 22301)</b></pl>
+							<an>Training <b>Business Continuity Management System (ISO 22301)</b></an></li>
+						<li><pl>Szkolenie <b>Przeciwdziałania Praniu Brudnych Pieniędzy</b></pl>
+							<an>Training <b>Anti-Money Laundering Training</b></an></li>
 					</ul>
 				</div>
 			</div>
