@@ -29,7 +29,7 @@
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
 						<ul>
-							<li><pl>tworzenie i utrzymanie narzędzie do monitoringu infrastruktury informatycznej banku</pl>
+							<li><pl>tworzenie i utrzymanie narzędzi do monitoringu infrastruktury informatycznej banku</pl>
 								<an>creating and maintaining a tool for monitoring the bank's IT infrastructure</an></li>
 							<li></li>
 							
