@@ -30,7 +30,7 @@
 Windows, skrypty bat, VBS, Microsoft Office, Visual Basic, grafika, Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash, Mainframe, 
 z/OS i JCL, Serwis PC, software/hardware, Prawo jazdy kat. B" />
 
-<meta name="description" content="CV Tomasz Kulinowski. Zajmuje się technologiami IT, takimi jak: Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML), 
+<meta name="description" content="Zajmuje się technologiami IT, takimi jak: Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML), 
 Programowanie (C, C++, Java), Linux (administracja, skrypty), Windows (skrypty bat,VBS), Microsoft Office (Visual Basic), 
 grafika (Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash), Mainframe (z/OS i JCL), Serwis PC (software/hardware), Prawo jazdy kat. B">
 
