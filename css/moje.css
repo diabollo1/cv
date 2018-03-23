@@ -6,6 +6,21 @@
   background: #ddd;
 }
 
+img.malpa
+{
+	width: 13px;
+	height: 13px;
+	display: inline;
+	padding: 0.1em;
+}
+
+#number
+{
+    color: #ffffff;
+    font-size: 0.9em;
+	margin: 5px 0 1em 0;
+}
+
 /*
 angielski
 {

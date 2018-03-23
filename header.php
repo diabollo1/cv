@@ -6,9 +6,17 @@
 		 		 
 		<div class="details">
 			 <h3><pl>TELEFON</pl><an>PHONE</an></h3>
+			 <!--
 			 <a href="tel:+48-506-727-456"><p>(+48) 506 727 456</p></a>
+			 <div id="numerek" data-last="727 456">(+48) 506<span>XXX XXX</span></div>
+			 <div id="number" data-last="1234">949<span>XXXX</span></div>
+			 -->
+			 <div id="number">(+48) 506 <span>XXX XXX</span><span id="812 154 256" style="display:none;">727 456</span></div>
+			 
+			 
 			 <h3>EMAIL</h3>
-			 <p><a href="mailto:tomasz@kulinowski.pl?Subject=[Web%20CV]%20">tomasz@kulinowski.pl</a></p>
+			 <p><a href="mailto:toxmasz@kulinoxwski.pl?Subject=[Web%20CV]%20" onmouseover="this.href=this.href.replace(/x/g,'');">tomasz<img class="malpa" src="images/malpa.png" alt=""/>kulinowski.pl</a></p>
+
 			 <address>
 			 <h3><pl>UMIEJĘTNOŚCI</pl><an>SKILLS</an></h3>
 				<span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>
@@ -25,3 +33,18 @@
 		</div>
 		<div class="clearfix"></div>
 </div>
+
+<script>
+	/*
+	$('#numerek').toggle(function()
+	{
+		$(this).find('span').text( $(this).data('last') );
+	},function()
+	{
+		$(this).find('span').text( 'XXX XXX' );
+	});
+	*/
+	$('#number').click(function() {
+    $(this).find('span').toggle();
+});
+</script>
