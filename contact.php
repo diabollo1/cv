@@ -78,7 +78,7 @@
 				
 				if(!empty($_POST))
 				{
-					mail("tomekkulinowski@interia.pl",$temat,$tresc,$naglowki);
+					mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
 				}
 				
 				

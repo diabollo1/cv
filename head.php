@@ -26,8 +26,14 @@
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Curriculum Vitae Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="CV, Tomasz Kulinowski, Web, HTML, CSS, SQL, JavaScript/jQuery, PHP, XML, Programowanie, C, C++, Java, Linux, administracja, skrypty, 
+Windows, skrypty bat, VBS, Microsoft Office, Visual Basic, grafika, Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash, Mainframe, 
+z/OS i JCL, Serwis PC, software/hardware, Prawo jazdy kat. B" />
+
+<meta name="description" content="CV Tomasz Kulinowski. Zajmuje się technologiami IT, takimi jak: Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML), 
+Programowanie (C, C++, Java), Linux (administracja, skrypty), Windows (skrypty bat,VBS), Microsoft Office (Visual Basic), 
+grafika (Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash), Mainframe (z/OS i JCL), Serwis PC (software/hardware), Prawo jazdy kat. B">
+
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>

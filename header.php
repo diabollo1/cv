@@ -8,7 +8,7 @@
 			 <h3><pl>TELEFON</pl><an>PHONE</an></h3>
 			 <a href="tel:+48-506-727-456"><p>(+48) 506 727 456</p></a>
 			 <h3>EMAIL</h3>
-			 <p><a href="mailto:tomekkulinowski@interia.pl?Subject=[Web%20CV]%20">tomekkulinowski@interia.pl</a></p>
+			 <p><a href="mailto:tomasz@kulinowski.pl?Subject=[Web%20CV]%20">tomasz@kulinowski.pl</a></p>
 			 <address>
 			 <h3><pl>UMIEJĘTNOŚCI</pl><an>SKILLS</an></h3>
 				<span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>
