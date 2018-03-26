@@ -18,6 +18,11 @@
 					<img class="logo_soc" src="images/logo_Goldenline.png" alt="logo_Goldenline"/>
 				</a>
 			</div>
+			<div class="soc">
+				<a href="https://github.com/diabollo1" target="_blank">
+					<img class="logo_soc" src="images/logo_github.png" alt="logo_github"/>
+				</a>
+			</div>
 				
 			<br>
 			<br>
