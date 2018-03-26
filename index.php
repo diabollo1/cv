@@ -192,7 +192,7 @@
 						<li><pl>Kurs IBM Fundamental System Skills in <b>z/OS</b> - IBM</pl>
 							<an>IBM Fundamental System Skills in <b>z/OS</b> course - IBM</an></li>
 						<li><pl>Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</pl>
-							<an>IBM </b>z/OS JCL and Utilities course</b> - IBM</an></li>
+							<an>IBM <b>z/OS JCL and Utilities course</b> - IBM</an></li>
 						<li><pl>Certyfikat <b>ECDL</b> nr. PL-0116993</pl>
 							<an><b>ECDL</b> certificate no. EN-0116993</an></li>
 						<li><pl>Szkolenie <b>Komunikacja i współpraca</b></pl>
