@@ -189,10 +189,10 @@
 							<an><b>Programming and analysis course for intra-network security</b> - Palace of Culture and Science</an></li>
 						<li><pl>Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b> – Centrum aktywizacji zawodowej s.c.</pl>
 							<an>Computer graphics course - <b>Corel Draw / Photoshop</b> - Center for professional activation sc</an></li>
-						<li><pl>Kurs IBM Fundamental System Skills in <b>z/OS</b></pl>
-							<an>IBM Fundamental System Skills in <b>z/OS</b> course</an></li>
-						<li><pl>Kurs IBM <b>z/OS JCL and Utilities</b></pl>
-							<an>IBM </b>z/OS JCL and Utilities course</b></an></li>
+						<li><pl>Kurs IBM Fundamental System Skills in <b>z/OS</b> - IBM</pl>
+							<an>IBM Fundamental System Skills in <b>z/OS</b> course - IBM</an></li>
+						<li><pl>Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</pl>
+							<an>IBM </b>z/OS JCL and Utilities course</b> - IBM</an></li>
 						<li><pl>Certyfikat <b>ECDL</b> nr. PL-0116993</pl>
 							<an><b>ECDL</b> certificate no. EN-0116993</an></li>
 						<li><pl>Szkolenie <b>Komunikacja i współpraca</b></pl>

@@ -18,7 +18,24 @@ img.malpa
 {
     color: #ffffff;
     font-size: 0.9em;
-	margin: 5px 0 1em 0;
+	margin: 5px 0 0em 0;
+}
+
+.details p
+{
+	margin: 5px 0 0em 0;
+}
+
+.sidebar img.logo_soc
+{
+	width: 20px;
+	height: 20px;
+}
+
+div.soc
+{
+	float: left;
+	margin: 8px 10px 0px 0;
 }
 
 /*
@@ -164,7 +181,7 @@ h3.clr3{
 }
 
 .sidebar h1{
-	margin-bottom: 0.2em;
+	margin-bottom: 0.5em;
 }
 
 .sidebar {
