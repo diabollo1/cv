@@ -23,6 +23,11 @@
 					<img class="logo_soc" src="images/logo_github.png" alt="logo_github"/>
 				</a>
 			</div>
+			<div class="soc">
+				<a href="https://about.me/kulinowski" target="_blank">
+					<img class="logo_soc" src="images/logo_about.me.png" alt="logo_github"/>
+				</a>
+			</div>
 				
 			<br>
 			<br>
