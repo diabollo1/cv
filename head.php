@@ -22,6 +22,10 @@
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/moje.css" rel='stylesheet' type='text/css' />
 
+<!--<link rel="stylesheet" href="pliki/style.css" type="text/css" media="screen" />-->
+<link rel="stylesheet" href="css/print.css" type="text/css" /> <!--media="print"-->
+
+
 <!-- Custom Theme files -->
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">

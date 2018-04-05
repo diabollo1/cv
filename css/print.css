@@ -1,0 +1,36 @@
+@media print {
+	a[href]:after
+	{
+		content: "";
+	}
+	.details_header
+	{
+	  display: none;
+	}
+	.company
+	{
+	  margin: 0 0;
+	}
+	body
+	{
+	  font-size: 0.85em;
+	}
+	#fotka
+	{
+		width: 70%;
+	}
+	.skills
+	{
+		margin: 1em 0;
+	}
+	.skill_list
+	{
+		padding: 0em 0 0 0em;
+	}
+	body > div.col-sm-9.col-sm-offset-3.col-md-10.col-md-offset-2.main
+	{
+		margin-top: -20px;
+	}
+}
+
+

@@ -1,7 +1,7 @@
 <div class="col-sm-3 col-md-2 sidebar">
 		 <div class="sidebar_top">
 			 <h1>Tomasz Kulinowski</h1> 
-			 <img src="images/5.png" alt=""/>
+			 <img id="fotka" src="images/5.png" alt=""/>
 		 </div>
 		 		 
 		<div class="details">
