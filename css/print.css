@@ -31,6 +31,10 @@
 	{
 		margin-top: -20px;
 	}
+	.company_details
+	{
+		page-break-inside: avoid;	/*nie pozwala łamać części tesktu na kolejne strony*/
+	}
 }
 
 
