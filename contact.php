@@ -9,8 +9,11 @@
 <?php include("header.php");?>
 <!---->
 
+<!--
 <link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
 <script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+-->
+
 	<!---//pop-up-box---->			
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 	<div class="content">
@@ -27,11 +30,10 @@
 					<div class="send">
 						<input type="submit" value="Submit">
 					</div>
-			</form>
 
 			
 			
-			<?
+			<?php
 				/*
 				print_r2($_POST);
 				print_r2($_GET);
@@ -76,19 +78,46 @@
 				//------------------------------------------------------------------------//
 				
 				
-				if(!empty($_POST))
+				if(isset($_POST))
 				{
-					mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
+					if(
+						isset($_POST['Name']) && $_POST['Name'] != "Name" &&
+						isset($_POST['Email']) && $_POST['Email'] != "Email" &&
+						isset($_POST['Subject']) && $_POST['Subject'] != "Subject" &&
+						isset($_POST['textarea']) && $_POST['textarea'] != "Message"
+					)
+					{
+						mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
+						/*
+						//echo "TEMAT: $temat <br> TREŚĆ: $tresc <br> NAGŁÓWEK $naglowki";
+						echo "<pre>";
+						print_r($_POST);
+						echo "</pre>";
+						*/
+						echo '
+							<br>
+							MAIL WYSŁANY
+							<br>
+							<img id="email_send_2" src="images/email_send3.png" alt=""/>
+						';
+						unset($_POST['Name']);
+						unset($_POST['Email']);
+						unset($_POST['Subject']);
+						unset($_POST['textarea']);
+					}
 				}
 				
 				
 			?>
 			
-			<div class="map">
+			
+			</form>
+			
 			<!--
+			<div class="map">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37494223.23909492!2d103!3d55!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sen!2sin!4v1415776049771"></iframe>
-			-->
 			</div>
+			-->
 		</div>
 		<div class="copywrite">
 			<p>© 2015 Curriculum Vitae All Rights Reseverd | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
