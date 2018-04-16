@@ -10,10 +10,8 @@
 
 
 <title>CV Tomasz Kulinowski</title>
-<!--<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />-->
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary JavaScript plugins) -->
-<!--<script src="js/jquery.min.js"></script>-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <!-- jQuery do zmiany języków-->
@@ -24,7 +22,6 @@
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/moje.css" rel='stylesheet' type='text/css' />
 
-<!--<link rel="stylesheet" href="pliki/style.css" type="text/css" media="screen" />-->
 <link rel="stylesheet" href="css/print.css" type="text/css" /> <!--media="print"-->
 
 

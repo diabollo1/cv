@@ -9,9 +9,6 @@
 <?php include("header.php");?>
 <!---->
 
-<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
-	<!---//pop-up-box---->			
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 	<div class="content">
 
