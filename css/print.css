@@ -35,6 +35,23 @@
 	{
 		page-break-inside: avoid;	/*nie pozwala łamać części tesktu na kolejne strony*/
 	}
+	
+	/*naprawa numeru telefonu*/
+	#number > span:nth-child(1)
+	{
+		display:none;
+	}
+	#number > span:nth-child(2)
+	{
+		display: inline !important;
+	}
+}
+
+@page {
+    margin-top: 0.5cm;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-bottom: 1.5cm;
 }
 
 

@@ -22,7 +22,7 @@
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/moje.css" rel='stylesheet' type='text/css' />
 
-<link rel="stylesheet" href="css/print.css" type="text/css" /> <!--media="print"-->
+<link href="css/print.css" rel="stylesheet" type="text/css" /> <!--media="print"-->
 
 
 <!-- Custom Theme files -->
