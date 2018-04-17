@@ -115,29 +115,39 @@ a.back:hover{
 .main ul li a {
     width: 40px;
     height: 40px;
-    background: url('../images/img-sprite.png') no-repeat -160px -43px;
     display: inline-block;
     border: none;
+}
+.main ul li a.indd {
+    background: url('../images/img-sprite2.png') no-repeat -160px -43px;
     background-size: 400px;
 }
-.main ul li a.facebook {
-    background: url('../images/img-sprite.png') no-repeat -200px -43px;
+.main ul li a.golden {
+    background: url('../images/img-sprite2.png') no-repeat -200px -43px;
     background-size: 400px;
 }
-.main ul li a.pinterest {
-    background: url('../images/img-sprite.png') no-repeat -240px -43px;
+.main ul li a.github {
+    background: url('../images/img-sprite2.png') no-repeat -240px -43px;
     background-size: 400px;
 }
-.main ul li a.twitter:hover {
-    background: url('../images/img-sprite.png') no-repeat -160px 0px;
+.main ul li a.me {
+    background: url('../images/img-sprite2.png') no-repeat -280px -43px;
     background-size: 400px;
 }
-.main ul li a.facebook:hover {
-    background: url('../images/img-sprite.png') no-repeat -200px 0px;
+.main ul li a.indd:hover {
+    background: url('../images/img-sprite2.png') no-repeat -160px 0px;
     background-size: 400px;
 }
-.main ul li a.pinterest:hover {
-    background: url('../images/img-sprite.png') no-repeat -240px 0px;
+.main ul li a.golden:hover {
+    background: url('../images/img-sprite2.png') no-repeat -200px 0px;
+    background-size: 400px;
+}
+.main ul li a.github:hover {
+    background: url('../images/img-sprite2.png') no-repeat -240px 0px;
+    background-size: 400px;
+}
+.main ul li a.me:hover {
+    background: url('../images/img-sprite2.png') no-repeat -280px 0px;
     background-size: 400px;
 }
 .footer{
