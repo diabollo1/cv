@@ -179,7 +179,6 @@
 		<div class="skills">
 			<h3 class="clr2"><pl>KURSY I CERTYFIKATY</pl><an>COURSES AND CERTIFICATES</an></h3>
 			<div class="skill_list">
-			
 				<div class="ul_margines ul_margines_CERT demibold">
 					<ul>
 						<li><pl>Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b> - Pałac Kultury i Nauki</pl>
@@ -190,8 +189,15 @@
 							<an>IBM Fundamental System Skills in <b>z/OS</b> course - IBM</an></li>
 						<li><pl>Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</pl>
 							<an>IBM <b>z/OS JCL and Utilities course</b> - IBM</an></li>
+							
+						<li><pl>Kurs - <b>Responsive Web Design</b> - Wprowadzenie do projektowania nowoczesnych stron</pl>
+							<an>Course - <b>Responsive Web Design</b> - Introduction to the design of modern websites</an></li>
+						<li><pl>Kurs - Do czego można wykorzystać język <b>Javascript</b></pl>
+							<an>Course - What can <b>Javascript</b> be used for?</an></li>
+							
 						<li><pl>Certyfikat <b>ECDL</b> nr. PL-0116993</pl>
 							<an><b>ECDL</b> certificate no. EN-0116993</an></li>
+							
 						<li><pl>Szkolenie <b>Komunikacja i współpraca</b></pl>
 							<an>Training <b>Communication and cooperation</b></an></li>
 						<li><pl>Szkolenie <b>Zarządzanie Ryzykiem Operacyjnym</b></pl>
