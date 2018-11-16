@@ -23,12 +23,44 @@
 				<h4>PKO BP S.A.<span><pl>od 2018</pl><an>from 2018</an></span></h4>
 				<h6><pl>Specjalista ds. Monitorowania systemów informatycznych</pl>
 				<an>Monitoring of Information Systems Specialist</an></h6>
-				<!--<p>blablabla</p>-->
+				
+				<p><b>HTML, CSS, SQL, JavaScript/jQuery, PHP, XML, Java, Linux/UNIX</b></p>
+					
 					<div class="ul_margines">
 						<ul>
-							<li><pl>tworzenie i utrzymanie narzędzi do monitoringu infrastruktury informatycznej banku</pl>
-								<an>creating and maintaining tools for monitoring the bank IT infrastructure</an></li>
 							
+							<li>
+								<pl>administrowanie, utrzymanie oraz zapewnienie ciągłości funkcjonowania narzędzi monitorowania, wspierających eksploatację systemów i infrastruktury IT </pl>
+								<an>administering, maintaining and ensuring the continuity of monitoring tools supporting the operation of IT systems and infrastructure</an>
+							</li>
+							<li>
+								<pl>projektowanie i budowa systemów wspierających eksploatację i zarządzanie infrastrukturą oraz usługami IT, bazami danych, middleware   </pl>
+								<an>design and construction of systems supporting the operation and management of infrastructure and IT services, databases, middleware</an>
+							</li>
+							<li>
+								<pl>udział w tworzeniu procedur związanych z eksploatacją systemów informatycznych i infrastruktury, w szczególności wspieranych przez rozwijane i administrowane narzędzia</pl>
+								<an>participation in creating procedures related to the operation of IT systems and infrastructure, in particular supported by developed and administered tools</an>
+							</li>
+							<li>
+								<pl>prowadzenie dokumentacji technicznej w zakresie systemów monitorowania, wykrywania sprzętu, gromadzenia danych o usługach, sprzęcie i zdarzeniach</pl>
+								<an>keeping technical documentation in the scope of monitoring systems, hardware detection, data collection about services, equipment and events</an>
+							</li>
+							<li>
+								<pl>zbieranie danych i tworzenie raportów z zarządzanych i rozwijanych systemów</pl>
+								<an>collecting data and creating reports on managed and developed systems</an>
+							</li>
+							<li>
+								<pl>utrzymanie ciągłości pracy systemów wsparcia eksploatacji</pl>
+								<an>maintaining continuity of operation support systems</an>
+							</li>
+							<li>
+								<pl>wsparcie klientów wewnętrznych departamentu</pl>
+								<an>support for internal departments of the department</an>
+							</li>
+							<li>
+								<pl>współpraca z administratorami infrastruktury i usług IT</pl>
+								<an>cooperation with infrastructure and IT services administrators</an>
+							</li>	
 						</ul>
 					</div>
 				<p class="cmpny1"></p>
