@@ -20,7 +20,7 @@
 	<!------------------->
 			<h3 class="clr2"><pl>DOŚWIADCZENIE ZAWODOWE</pl><an>EXPERIENCE</an></h3>
 			<div class="company_details">
-				<h4>PKO BP S.A.<span><pl>od 2018</pl><an>from 2018</an></span></h4>
+				<h4>PKO BP S.A.<span><pl>od 2014</pl><an>from 2014</an></span></h4>
 				<h6><pl>Specjalista ds. Monitorowania systemów informatycznych</pl>
 				<an>Monitoring of Information Systems Specialist</an></h6>
 				
