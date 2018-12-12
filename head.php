@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111103619-1"></script>
 <script>
@@ -7,7 +9,6 @@
 
   gtag('config', 'UA-111103619-1');
 </script>
-
 
 <title>CV Tomasz Kulinowski</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
@@ -28,7 +29,8 @@
 <!-- Custom Theme files -->
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>-->
+
 <meta name="keywords" content="CV, Tomasz Kulinowski, Web, HTML, CSS, SQL, JavaScript/jQuery, PHP, XML, Programowanie, C, C++, Java, Linux, administracja, skrypty, 
 Windows, skrypty bat, VBS, Microsoft Office, Visual Basic, grafika, Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash, Mainframe, 
 z/OS i JCL, Serwis PC, software/hardware, Prawo jazdy kat. B" />
