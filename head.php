@@ -28,7 +28,7 @@
 <!-- Custom Theme files -->
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="keywords" content="CV, Tomasz Kulinowski, Web, HTML, CSS, SQL, JavaScript/jQuery, PHP, XML, Programowanie, C, C++, Java, Linux, administracja, skrypty, 
 Windows, skrypty bat, VBS, Microsoft Office, Visual Basic, grafika, Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash, Mainframe, 
 z/OS i JCL, Serwis PC, software/hardware, Prawo jazdy kat. B" />

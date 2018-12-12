@@ -1,20 +1,20 @@
 $(document).ready(function()
 { 
 	//schowanie wszystkich angielskich
-	$('an').hide();
-	$('pl').show();
+	$('span.lang_en').hide();
+	$('span.lang_pl').show();
 
 	//chowanie i pokazywanie odpowiedniego jêzyka
 	$(':checkbox').change(function()
 	{
 		if($('#switch222').prop("checked"))
 		{
-			$('an').show();
-			$('pl').hide();
+			$('span.lang_en').show();
+			$('span.lang_pl').hide();
 		}else
 		{
-			$('an').hide();
-			$('pl').show();
+			$('span.lang_en').hide();
+			$('span.lang_pl').show();
 		}
 	});
 	

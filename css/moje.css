@@ -1,11 +1,4 @@
 /*języki------------------------*/
-
-.an
-{
-  visibility: collapse;
-  background: #ddd;
-}
-
 img.malpa
 {
 	width: 13px;
@@ -188,6 +181,15 @@ address {
     margin-bottom: 0em;
 }
 
+.angg
+{
+	display: -webkit-inline-box !important;
+}
+
+#switch_label
+{
+	margin-right: 9px;
+}
 /*----------------------------------------------------------------------------------*/
 
 @media (max-width: 1024px)

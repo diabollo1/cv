@@ -1,9 +1,9 @@
 
 <div class="details_header">
 	<ul>
-		<li><a href="index.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span><pl>Strona główna</pl><an>Home page</an></a></li>
-		<li><a href="#" onclick="window.print();return false;"><span class="glyphicon glyphicon-print" aria-hidden="true"></span><pl>Wydrukuj</pl><an>Print CV</an></a></li>
-		<li><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><pl>Napisz</pl><an>Email me</an></a></li>
-		<li><input type="checkbox" id="switch222" /><label id="switch_label" for="switch222">Toggle</label></li> English
+		<li><a href="index.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span><span class="lang_pl">Strona główna</span><span class="lang_en">Home page</span></a></li>
+		<li><a href="#" onclick="window.print();return false;"><span class="glyphicon glyphicon-print" aria-hidden="true"></span><span class="lang_pl">Wydrukuj</span><span class="lang_en">Print CV</span></a></li>
+		<li><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><span class="lang_pl">Napisz</span><span class="lang_en">Email me</span></a></li>
+		<li class="angg"><input type="checkbox" id="switch222" /><label id="switch_label" for="switch222">Toggle</label>English</li> 
 	</ul>
 </div>
