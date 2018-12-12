@@ -31,7 +31,7 @@
 				
 			<br>
 			<br>
-			<address>
+			<div class="address">
 				<h3><span class="lang_pl">UMIEJĘTNOŚCI</span><span class="lang_en">SKILLS</span></h3>
 				<span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>
 				<span class="lang_pl">Programowanie (C, C++, Java)</span><span class="lang_en">Programming (C, C ++, Java)</span>
@@ -42,7 +42,7 @@
 				<span>Mainframe (z/OS i JCL)</span>
 				<span class="lang_pl">Serwis PC (software/hardware)</span><span class="lang_en">PC service (software / hardware)</span>
 				<span class="lang_pl">Prawo jazdy kat. B</span><span class="lang_en">Driving license category B</span>
-			</address>
+			</div>
 		</div>
 		<div class="clearfix"></div>
 </div>

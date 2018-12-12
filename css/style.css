@@ -71,10 +71,10 @@ a:focus {
 	color:#ffffff;
 	font-size:0.9em;
 }
-address h3{
+div.address h3{
 	margin-bottom:5px;
 }
-address span{
+div.address span{
 	display:block;
 	color:#ffffff;
 	font-size:0.7em;
@@ -245,7 +245,7 @@ h3.clr3{
   border: none;
 }
 
-address span {
+div.address span {
 	padding: 2px;
 }
 
@@ -325,7 +325,7 @@ address span {
 	.details p {
 		font-size: 0.75em;
 	}
-	address span {
+	div.address span {
 		font-size: 0.6em;
 	}
 	.contact-grid input[type="text"], .contact-grid textarea {
@@ -388,7 +388,7 @@ address span {
 }
 /*--------------------------*/
 @media (max-width: 600px){
-address {
+div.address {
   margin-bottom:0px;
 }
 .sidebar_top {
@@ -427,7 +427,7 @@ address {
 .sidebar_top {
   width: 38%;
 }
-address {
+div.address {
   margin-bottom: 0px;
 }
 .copywrite{
@@ -532,7 +532,7 @@ address {
   font-size: 0.75em;
   margin: 5px 0 0.5em 0;
 }
-address span {
+div.address span {
   font-size: 0.5em;
 }
 .sidebar {

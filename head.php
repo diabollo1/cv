@@ -37,7 +37,7 @@ z/OS i JCL, Serwis PC, software/hardware, Prawo jazdy kat. B" />
 Programowanie (C, C++, Java), Linux (administracja, skrypty), Windows (skrypty bat,VBS), Microsoft Office (Visual Basic), 
 grafika (Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash), Mainframe (z/OS i JCL), Serwis PC (software/hardware), Prawo jazdy kat. B">
 
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 <!-- start menu -->

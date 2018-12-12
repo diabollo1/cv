@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="pl-PL">
 <head>
 	<?php include("head.php");?>
 </head>
@@ -7,7 +7,8 @@
 
 <!-- header -->
 <?php include("header.php");?>
-<!---->
+
+
 		
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 	<div class="content">
@@ -20,7 +21,7 @@
 					<input type="text" value="Name" name="Name" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Name';}">
 					<input type="text" value="Email" name="Email" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Email';}">
 					<input type="text" value="Subject" name="Subject" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Subject';}">
-					<textarea cols="77" rows="6" value=" " name="textarea" form="form_Contact" onfocus="this.value='';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+					<textarea cols="77" rows="6" name="textarea" form="form_Contact" onfocus="this.value='';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
 					<div class="send">
 						<input type="submit" value="Submit">
 					</div>
@@ -118,6 +119,6 @@
 		</div>
 	</div>
 </div>
-<!---->
+
 </body>
 </html>
