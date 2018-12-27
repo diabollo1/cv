@@ -18,10 +18,10 @@
 		<div class="company contact-grid">
 			<h3 class="clr1">Contact</h3>
 			<form id="form_Contact" action="send_mail.php" method="POST">	
-				<input type="text" value="Name" name="Name" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Name';}">
-				<input type="text" value="Email" name="Email" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Email';}">
-				<input type="text" value="Subject" name="Subject" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Subject';}">
-				<textarea cols="77" rows="6" name="textarea" form="form_Contact" onfocus="this.value='';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+				<input type="text" name="Name" placeholder="Name">
+				<input type="text" name="Email" placeholder="Email">
+				<input type="text" name="Subject" placeholder="Subject">
+				<textarea cols="77" rows="6" name="textarea" placeholder="Message"></textarea>				
 				<div class="send">
 					<input type="submit" value="Submit">
 				</div>
