@@ -11,6 +11,9 @@
 </script>
 
 <title>CV Tomasz Kulinowski</title>
+
+<link rel="shortcut icon" href="favicon.ico" />
+
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -19,7 +22,7 @@
 <script src="js/angielski.js"></script>
 
 <!-- Custom Theme files -->
- <link href="css/dashboard.css" rel="stylesheet">
+<link href="css/dashboard.css" rel="stylesheet">
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/moje.css" rel='stylesheet' type='text/css' />
 
