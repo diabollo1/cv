@@ -23,9 +23,9 @@
 				<input type="text" name="subject" placeholder="Temat" required>
 				<textarea cols="77" rows="6" name="textarea" placeholder="Wiadomość" required></textarea>				
 				
-				<input type="hidden" name="valid_pierwsza_cyfra" value="2">
+				<input type="hidden" name="valid_pierwsza_cyfra" value="1">
 				<input type="hidden" name="valid_druga_cyfra" value="2">
-				<input type="text" name="valid_wynik" placeholder="Ile jest 2 + 2?" pattern="[0-9]{1}" required>
+				<input type="text" name="valid_wynik" placeholder='Ile jest 2 plus 2?' pattern="[0-9]{1}" required>
 				
 				<div class="send">
 					<input type="submit" value="Wyślij">
@@ -37,19 +37,29 @@
 						switch($_GET['wyslane'])
 						{
 							case "poszlo":
-								echo 'MAIL ZOSTAŁ WYSŁANY!';
+								echo '<span class="glyphicon glyphicon-ok-circle glyphicon-big"></span>';
+								echo 'Mail został wysłany!';
+								break;
+							
+							case "blad":
+								echo '<span class="glyphicon glyphicon-remove-circle glyphicon-big"></span>';
+								echo 'Źle uzupełniony formularz!';
+								break;
+							
+							case "zly_numerek":
+								echo '<span class="glyphicon glyphicon-cog glyphicon-big"></span>';
+								echo 'Jesteś robotem!';
 								break;
 							
 							case "blad_calkowity":
-								echo 'MAIL NIE ZOSTAŁ WYSŁANY!';
+								echo '<span class="glyphicon glyphicon-remove-circle glyphicon-big"></span>';
+								echo 'Mail nie został wysłany!';
 								break;
 							
 							default:
-								echo 'COŚ POSZŁO NIE TAK!';
+								echo '<span class="glyphicon glyphicon-question-sign glyphicon-big"></span>';
+								echo 'Coś poszło nie tak!';
 						}
-						
-						echo '<br>';
-						echo '<img id="email_send_2" src="images/email_send3.png" alt=""/>';
 					}
 				?>
 			</form>

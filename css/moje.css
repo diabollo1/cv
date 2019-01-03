@@ -205,6 +205,22 @@ div.address {
   -webkit-appearance: none;
 }
 
+.glyphicon-big
+{
+  font-size: 50px;
+	color: #c7c7c7;
+}
+
+.glyphicon-ok-circle
+{
+	color: rgb(11,102,35);
+}
+
+.glyphicon-remove-circle, .glyphicon-cog
+{
+	color: rgb(255,0,0);
+}
+
 /*----------------------------------------------------------------------------------*/
 
 @media (max-width: 1024px)

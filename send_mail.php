@@ -1,8 +1,6 @@
 <?php
-	/*
-	print_r2($_POST);
-	print_r2($_GET);
-	*/
+	print_r($_POST);
+	print_r($_GET);
 	
 	$naglowki  = "MIME-Version: 1.0\r\n";
 	$naglowki .= "Content-type: text/html; charset=utf-8\r\n";
@@ -15,7 +13,7 @@
 	//------------------------------------------------------------------------//
 	
 	//---tresc----------------------------------------------------------------//
-	$tresc = "Mail ze strony: " . "http://".$_SERVER[HTTP_HOST].$_SERVER[REQUEST_URI];
+	$tresc = "Mail ze strony: " . "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 		$tresc .= "<br>name: ";
 			if(isset($_POST['name']))	$tresc .= $_POST['name'];
 		$tresc .= "<br>email: ";
@@ -42,17 +40,24 @@
 		$tresc .= "<hr>";
 	//------------------------------------------------------------------------//
 	
-	
-	if(isset($_POST))
+	$stan="";
+
+	if($_POST['valid_wynik'] != "4")
 	{
-		//isset($_POST['valid_wynik']) && $_POST['valid_wynik'] == "4"
+		$stan = "zly_numerek";
+	}
+			
+	if(isset($_POST) && $stan == "")
+	{
 		if(
 			isset($_POST['name']) && $_POST['name'] != "" &&
 			isset($_POST['email']) && $_POST['email'] != "" &&
 			isset($_POST['subject']) && $_POST['subject'] != "" &&
-			isset($_POST['textarea']) && $_POST['textarea'] != ""			
+			isset($_POST['textarea']) && $_POST['textarea'] != ""	 &&
+			isset($_POST['valid_wynik']) && $_POST['valid_wynik'] != ""
 		)
 		{
+			
 			mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
 			/*
 			//echo "TEMAT: $temat <br> TREŚĆ: $tresc <br> NAGŁÓWEK $naglowki";
@@ -65,12 +70,25 @@
 			unset($_POST['email']);
 			unset($_POST['subject']);
 			unset($_POST['textarea']);
+			unset($_POST['valid_pierwsza_cyfra']);
+			unset($_POST['valid_druga_cyfra']);
+			unset($_POST['valid_wynik']);
 			
-			header("location:contact.php?wyslane=poszlo");
+			$stan = "poszlo";
 		}
+			if($stan == "") $stan = "blad";
 	}
 	
-	header("location:contact.php?wyslane=blad_calkowity");
+	if($stan == "") $stan = "blad_calkowity";
+	
+	$host  = $_SERVER['HTTP_HOST'];
+	$uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
+	$extra = "contact.php?wyslane=";
+	$loc = "Location: http://$host$uri/$extra";
+	
+	header($loc.$stan);
+	
+
 	
 	
 ?>
