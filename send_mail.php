@@ -10,18 +10,18 @@
 	
 	//---tresc----------------------------------------------------------------//
 	$temat = "CV_web - ";
-		if(isset($_POST['Name']))	$temat .= $_POST['Name'] . " - ";
-		if(isset($_POST['Subject']))	$temat .= $_POST['Subject'];
+		if(isset($_POST['name']))	$temat .= $_POST['name'] . " - ";
+		if(isset($_POST['subject']))	$temat .= $_POST['subject'];
 	//------------------------------------------------------------------------//
 	
 	//---tresc----------------------------------------------------------------//
-	$tresc = "Mail ze strony: http://185.25.218.144/cv/<hr>";
-		$tresc .= "<br>Name: ";
-			if(isset($_POST['Name']))	$tresc .= $_POST['Name'];
-		$tresc .= "<br>Email: ";
-			if(isset($_POST['Email']))	$tresc .= $_POST['Email'];
-		$tresc .= "<br>Subject: ";
-			if(isset($_POST['Subject']))	$tresc .= $_POST['Subject'];
+	$tresc = "Mail ze strony: " . "http://".$_SERVER[HTTP_HOST].$_SERVER[REQUEST_URI];
+		$tresc .= "<br>name: ";
+			if(isset($_POST['name']))	$tresc .= $_POST['name'];
+		$tresc .= "<br>email: ";
+			if(isset($_POST['email']))	$tresc .= $_POST['email'];
+		$tresc .= "<br>subject: ";
+			if(isset($_POST['subject']))	$tresc .= $_POST['subject'];
 		$tresc .= "<br>textarea: ";
 			if(isset($_POST['textarea']))	$tresc .= $_POST['textarea'];
 		
@@ -45,11 +45,12 @@
 	
 	if(isset($_POST))
 	{
+		//isset($_POST['valid_wynik']) && $_POST['valid_wynik'] == "4"
 		if(
-			isset($_POST['Name']) && $_POST['Name'] != "Name" &&
-			isset($_POST['Email']) && $_POST['Email'] != "Email" &&
-			isset($_POST['Subject']) && $_POST['Subject'] != "Subject" &&
-			isset($_POST['textarea']) && $_POST['textarea'] != "Message"
+			isset($_POST['name']) && $_POST['name'] != "" &&
+			isset($_POST['email']) && $_POST['email'] != "" &&
+			isset($_POST['subject']) && $_POST['subject'] != "" &&
+			isset($_POST['textarea']) && $_POST['textarea'] != ""			
 		)
 		{
 			mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
@@ -60,14 +61,16 @@
 			echo "</pre>";
 			*/
 
-			unset($_POST['Name']);
-			unset($_POST['Email']);
-			unset($_POST['Subject']);
+			unset($_POST['name']);
+			unset($_POST['email']);
+			unset($_POST['subject']);
 			unset($_POST['textarea']);
+			
+			header("location:contact.php?wyslane=poszlo");
 		}
 	}
 	
-	header("location:contact.php?wyslane=true");
+	header("location:contact.php?wyslane=blad_calkowity");
 	
 	
 ?>

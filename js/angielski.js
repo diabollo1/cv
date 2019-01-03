@@ -5,7 +5,7 @@ $(document).ready(function()
 	$('span.lang_pl').show();
 
 	//chowanie i pokazywanie odpowiedniego jêzyka
-	$(':checkbox').change(function()
+	$('#switch222').change(function()
 	{
 		if($('#switch222').prop("checked"))
 		{
@@ -16,6 +16,8 @@ $(document).ready(function()
 			$('span.lang_en').hide();
 			$('span.lang_pl').show();
 		}
+		
+		
 	});
 	
 });
