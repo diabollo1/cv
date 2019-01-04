@@ -43,13 +43,6 @@
 	$stan="";
 	
 
-	
-	
-
-
-
-
-			
 	if(isset($_POST))
 	{
 		if(
@@ -122,9 +115,7 @@
 	$extra = "contact.php?wyslane=";
 	$loc = "Location: http://$host$uri/$extra";
 	
-	// header($loc.$stan);
-	
-
+	header($loc.$stan);
 	
 	
 ?>
