@@ -6,7 +6,7 @@
 	$naglowki .= "Content-type: text/html; charset=utf-8\r\n";
 	
 	
-	//---tresc----------------------------------------------------------------//
+	//---temat----------------------------------------------------------------//
 	$temat = "CV_web - ";
 		if(isset($_POST['name']))	$temat .= $_POST['name'] . " - ";
 		if(isset($_POST['subject']))	$temat .= $_POST['subject'];
@@ -41,31 +41,69 @@
 	//------------------------------------------------------------------------//
 	
 	$stan="";
+	
 
-	if($_POST['valid_wynik'] != "4")
-	{
-		$stan = "zly_numerek";
-	}
+	
+	
+
+
+
+
 			
-	if(isset($_POST) && $stan == "")
+	if(isset($_POST))
 	{
 		if(
 			isset($_POST['name']) && $_POST['name'] != "" &&
 			isset($_POST['email']) && $_POST['email'] != "" &&
 			isset($_POST['subject']) && $_POST['subject'] != "" &&
 			isset($_POST['textarea']) && $_POST['textarea'] != ""	 &&
+			isset($_POST['valid_pierwsza_cyfra']) && $_POST['valid_pierwsza_cyfra'] != ""	 &&
+			isset($_POST['valid_druga_cyfra']) && $_POST['valid_druga_cyfra'] != ""	 &&
 			isset($_POST['valid_wynik']) && $_POST['valid_wynik'] != ""
 		)
 		{
+			if($_POST['valid_wynik'] != "4")
+			{
+				if($stan == "") $stan = "zly_numerek";
+				
+				// echo $_SERVER['HTTP_HOST'];
+				if(($_SERVER['HTTP_HOST'] == "192.168.1.100" || $_SERVER['HTTP_HOST'] == "kulinowski.pl"))
+				{
+					//ZMIENNE Z PARAMETRAMI POŁĄCZENIA DO BAZY
+					include "db_pass.php";
+					/*
+						if($_SERVER['HTTP_HOST'] == "****")
+						{
+							$servername = "****";
+							$username = "****";
+							$password = "****";
+							$dbname = "****";
+						}
+					*/
+					
+					// Create connection
+					$conn = mysqli_connect($servername, $username, $password, $dbname);
+					// Check connection
+					if (!$conn) {
+						die("Connection failed: " . mysqli_connect_error());
+					}
+					
+					$sql = "
+						INSERT INTO `contact` 
+						(`id`, `name`, `email`, `subject`, `textarea`, `valid_pierwsza_cyfra`, `valid_druga_cyfra`, `valid_wynik`)
+						VALUES 
+						(NULL, '".$_POST['name']."', '".$_POST['email']."', '".$_POST['subject']."', '".$_POST['textarea']."', '".$_POST['valid_pierwsza_cyfra']."', '".$_POST['valid_druga_cyfra']."', '".$_POST['valid_wynik']."')";
+					echo $sql;
+					mysqli_query($conn, $sql);
+				}
+				
+			}
+			else
+			{
+				mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
+				if($stan == "") $stan = "poszlo";
+			}
 			
-			mail("tomasz@kulinowski.pl",$temat,$tresc,$naglowki);
-			/*
-			//echo "TEMAT: $temat <br> TREŚĆ: $tresc <br> NAGŁÓWEK $naglowki";
-			echo "<pre>";
-			print_r($_POST);
-			echo "</pre>";
-			*/
-
 			unset($_POST['name']);
 			unset($_POST['email']);
 			unset($_POST['subject']);
@@ -73,8 +111,6 @@
 			unset($_POST['valid_pierwsza_cyfra']);
 			unset($_POST['valid_druga_cyfra']);
 			unset($_POST['valid_wynik']);
-			
-			$stan = "poszlo";
 		}
 			if($stan == "") $stan = "blad";
 	}
@@ -86,7 +122,7 @@
 	$extra = "contact.php?wyslane=";
 	$loc = "Location: http://$host$uri/$extra";
 	
-	header($loc.$stan);
+	// header($loc.$stan);
 	
 
 	
