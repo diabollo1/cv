@@ -64,9 +64,9 @@
 		$dane_do_bazy["GET"].=$key.": ".$_GET[$key]."|";
 	}
 	
-	echo "<pre>";
-	echo print_r($dane_do_bazy);
-	echo "</pre>";
+	// echo "<pre>";
+	// echo print_r($dane_do_bazy);
+	// echo "</pre>";
 	
 	$zapytanie_sql = "INSERT INTO `contact` (";
 	
