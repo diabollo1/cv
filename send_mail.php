@@ -55,41 +55,43 @@
 			isset($_POST['valid_wynik']) && $_POST['valid_wynik'] != ""
 		)
 		{
+			
+			//----WRZUCANIE DO BAZY WYSYŁANYCH MAILI----//
+			// echo $_SERVER['HTTP_HOST'];
+			if(($_SERVER['HTTP_HOST'] == "192.168.1.100" || $_SERVER['HTTP_HOST'] == "kulinowski.pl"))
+			{
+				//ZMIENNE Z PARAMETRAMI POŁĄCZENIA DO BAZY
+				include "db_pass.php";
+				/*
+					if($_SERVER['HTTP_HOST'] == "****")
+					{
+						$servername = "****";
+						$username = "****";
+						$password = "****";
+						$dbname = "****";
+					}
+				*/
+				
+				// Create connection
+				$conn = mysqli_connect($servername, $username, $password, $dbname);
+				// Check connection
+				if (!$conn) {
+					die("Connection failed: " . mysqli_connect_error());
+				}
+				
+				$sql = "
+					INSERT INTO `contact` 
+					(`id`, `name`, `email`, `subject`, `textarea`, `valid_pierwsza_cyfra`, `valid_druga_cyfra`, `valid_wynik`)
+					VALUES 
+					(NULL, '".$_POST['name']."', '".$_POST['email']."', '".$_POST['subject']."', '".$_POST['textarea']."', '".$_POST['valid_pierwsza_cyfra']."', '".$_POST['valid_druga_cyfra']."', '".$_POST['valid_wynik']."')";
+				echo $sql;
+				mysqli_query($conn, $sql);
+			}
+			//-------------------------------------------//
+			
 			if($_POST['valid_wynik'] != "4")
 			{
 				if($stan == "") $stan = "zly_numerek";
-				
-				// echo $_SERVER['HTTP_HOST'];
-				if(($_SERVER['HTTP_HOST'] == "192.168.1.100" || $_SERVER['HTTP_HOST'] == "kulinowski.pl"))
-				{
-					//ZMIENNE Z PARAMETRAMI POŁĄCZENIA DO BAZY
-					include "db_pass.php";
-					/*
-						if($_SERVER['HTTP_HOST'] == "****")
-						{
-							$servername = "****";
-							$username = "****";
-							$password = "****";
-							$dbname = "****";
-						}
-					*/
-					
-					// Create connection
-					$conn = mysqli_connect($servername, $username, $password, $dbname);
-					// Check connection
-					if (!$conn) {
-						die("Connection failed: " . mysqli_connect_error());
-					}
-					
-					$sql = "
-						INSERT INTO `contact` 
-						(`id`, `name`, `email`, `subject`, `textarea`, `valid_pierwsza_cyfra`, `valid_druga_cyfra`, `valid_wynik`)
-						VALUES 
-						(NULL, '".$_POST['name']."', '".$_POST['email']."', '".$_POST['subject']."', '".$_POST['textarea']."', '".$_POST['valid_pierwsza_cyfra']."', '".$_POST['valid_druga_cyfra']."', '".$_POST['valid_wynik']."')";
-					echo $sql;
-					mysqli_query($conn, $sql);
-				}
-				
 			}
 			else
 			{
