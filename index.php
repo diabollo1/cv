@@ -212,7 +212,14 @@
 			<div class="skill_list">
 				<div class="ul_margines ul_margines_CERT demibold">
 					<ul>
-						<li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b> - Pałac Kultury i Nauki</span>
+						<li><span class="lang_pl">Kurs - <b>Programista PHP</b> - PHP, HTML, CSS, XML, projektowanie baz danych, programowanie obiektowe, Javascript, wstęp do AJAX</span>
+							<span class="lang_en">Course - <b>PHP programmer</b> - PHP, HTML, CSS, XML, database design, object programming, Javascript, introduction to AJAX</span></li>
+						<li><span class="lang_pl">Kurs - <b>Responsive Web Design</b> - Wprowadzenie do projektowania nowoczesnych stron</span>
+							<span class="lang_en">Course - <b>Responsive Web Design</b> - Introduction to the design of modern websites</span></li>
+						<li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
+							<span class="lang_en">Course - What can <b>Javascript</b> be used for?</span></li>
+						
+                        <li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b> - Pałac Kultury i Nauki</span>
 							<span class="lang_en"><b>Programming and analysis course for intra-network security</b> - Palace of Culture and Science</span></li>
 						<li><span class="lang_pl">Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b> – Centrum aktywizacji zawodowej s.c.</span>
 							<span class="lang_en">Computer graphics course - <b>Corel Draw / Photoshop</b> - Center for professional activation sc</span></li>
@@ -221,10 +228,6 @@
 						<li><span class="lang_pl">Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</span>
 							<span class="lang_en">IBM <b>z/OS JCL and Utilities course</b> - IBM</span></li>
 							
-						<li><span class="lang_pl">Kurs - <b>Responsive Web Design</b> - Wprowadzenie do projektowania nowoczesnych stron</span>
-							<span class="lang_en">Course - <b>Responsive Web Design</b> - Introduction to the design of modern websites</span></li>
-						<li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
-							<span class="lang_en">Course - What can <b>Javascript</b> be used for?</span></li>
 							
 						<li><span class="lang_pl">Certyfikat <b>ECDL</b> nr. PL-0116993</span>
 							<span class="lang_en"><b>ECDL</b> certificate no. EN-0116993</span></li>
