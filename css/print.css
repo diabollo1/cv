@@ -13,11 +13,11 @@
 	}
 	body
 	{
-	  font-size: 0.85em;
+	  font-size: 0.79em;
 	}
 	#fotka
 	{
-		width: 70%;
+		width: 60%;
 	}
 	.skills
 	{
@@ -45,6 +45,18 @@
 	{
 		display: inline !important;
 	}
+    div.soc
+    {
+        display: none;
+    }
+    .address
+    {
+        margin-top: 0px;
+    }
+    .skill_list
+    {
+        font-size: 0.9em;
+    }
 }
 
 @page {

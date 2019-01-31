@@ -8,34 +8,36 @@
 			<h3><span class="lang_pl">KONTAKT</span><span class="lang_en">CONTACT</span></h3>
 			<div id="number">(+48) 506 <span>XXX XXX</span><span id="812154256" style="display:none;">727 456</span></div>
 			<p><a href="mailto:toxmasz@kulinoxwski.pl?Subject=Web%20CV%20" onmouseover="this.href=this.href.replace(/x/g,'');">tomasz<img class="malpa" src="images/malpa.png" alt=""/>kulinowski.pl</a></p>
-			<div class="soc">
-				<a href="http://www.linkedin.com/in/tomasz-kulinowski" target="_blank">
-					<img class="logo_soc" src="images/logo_linkedin.png" alt="logo_linkedin"/>
-				</a>
-			</div>
-			<div class="soc">
-				<a href="https://www.goldenline.pl/tomasz-kulinowski/" target="_blank">
-					<img class="logo_soc" src="images/logo_Goldenline.png" alt="logo_Goldenline"/>
-				</a>
-			</div>
-			<div class="soc">
-				<a href="https://github.com/diabollo1" target="_blank">
-					<img class="logo_soc" src="images/logo_github.png" alt="logo_github"/>
-				</a>
-			</div>
-			<div class="soc">
-				<a href="https://bitbucket.org/diabollo/" target="_blank">
-					<img class="logo_soc" src="images/logo_bitbucket.png" alt="logo_bitbucket"/>
-				</a>
-			</div>
-			<div class="soc">
-				<a href="https://about.me/kulinowski" target="_blank">
-					<img class="logo_soc" src="images/logo_about.me.png" alt="logo_github"/>
-				</a>
-			</div>
+			<div class="ico">
+                <div class="soc">
+                    <a href="http://www.linkedin.com/in/tomasz-kulinowski" target="_blank">
+                        <img class="logo_soc" src="images/logo_linkedin.png" alt="logo_linkedin"/>
+                    </a>
+                </div>
+                <div class="soc">
+                    <a href="https://www.goldenline.pl/tomasz-kulinowski/" target="_blank">
+                        <img class="logo_soc" src="images/logo_Goldenline.png" alt="logo_Goldenline"/>
+                    </a>
+                </div>
+                <div class="soc">
+                    <a href="https://github.com/diabollo1" target="_blank">
+                        <img class="logo_soc" src="images/logo_github.png" alt="logo_github"/>
+                    </a>
+                </div>
+                <div class="soc">
+                    <a href="https://bitbucket.org/diabollo/" target="_blank">
+                        <img class="logo_soc" src="images/logo_bitbucket.png" alt="logo_bitbucket"/>
+                    </a>
+                </div>
+                <div class="soc">
+                    <a href="https://about.me/kulinowski" target="_blank">
+                        <img class="logo_soc" src="images/logo_about.me.png" alt="logo_github"/>
+                    </a>
+                </div>
+            </div>
+            
+            <br>
 				
-			<br>
-			<br>
 			<div class="address">
 				<h3><span class="lang_pl">UMIEJĘTNOŚCI</span><span class="lang_en">SKILLS</span></h3>
 				<span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>
