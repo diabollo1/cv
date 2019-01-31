@@ -19,7 +19,7 @@
 	<!--=====================-->
 			<h3 class="clr2"><span class="lang_pl">DOŚWIADCZENIE ZAWODOWE</span><span class="lang_en">EXPERIENCE</span></h3>
 			<div class="company_details">
-				<h4>PKO BP S.A.<span class="lang_pl">od 2014</span><span class="lang_en">from 2014</span></h4>
+				<h4>PKO BP S.A.<span class="lang_pl data">od 2014</span><span class="lang_en data">from 2014</span></h4>
 				<h6><span class="lang_pl">Specjalista ds. Monitorowania systemów informatycznych</span>
 				<span class="lang_en">Monitoring of Information Systems Specialist</span></h6>
 				
@@ -66,7 +66,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>RomDruk<span class="lang_pl">od 2013</span><span class="lang_en">from 2013</span></h4>
+				<h4>RomDruk<span class="lang_pl data">od 2013</span><span class="lang_en data">from 2013</span></h4>
 				<h6><span class="lang_pl">Grafik</span><span class="lang_en">Graphic Designer</span></h6>
 				<!--<p>blablabla</p>-->
 				<div class="ul_margines">
@@ -88,7 +88,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>PKO BP S.A.<span>2014 - 2017</span></h4>
+				<h4>PKO BP S.A.<span class="data">2014 - 2017</span></h4>
 				<h6><span class="lang_pl">Operator IT</span><span class="lang_en">IT Operator</span></h6>
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
@@ -107,7 +107,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>Inteligo Financial Services S.A.<span>2013 - 2014</span></h4>
+				<h4>Inteligo Financial Services S.A.<span class="data">2013 - 2014</span></h4>
 				<h6><span class="lang_pl">Operator Service Desk</span><span class="lang_en">Service Desk Operator</span></h6>
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
@@ -124,7 +124,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>Fundacja Nauka i Wiedza<span>2011 - 2013</span></h4>
+				<h4>Fundacja Nauka i Wiedza<span class="data">2011 - 2013</span></h4>
 				<h6><span class="lang_pl">Programista Java</span><span class="lang_en">Java Programmer</span></h6>
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
@@ -139,7 +139,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>OVB Allfinanz Polska<span>2009 - 2011</span></h4>
+				<h4>OVB Allfinanz Polska<span class="data">2009 - 2011</span></h4>
 				<h6><span class="lang_pl">Doradca finansowy</span><span class="lang_en">Financial Adviser</span></h6>
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
@@ -153,7 +153,7 @@
 			</div>
 	<!--=====================-->
 			<div class="company_details">
-				<h4>Agregaty Pex-Pool Plus<span>2005 - 2013</span></h4>
+				<h4>Agregaty Pex-Pool Plus<span class="data">2005 - 2013</span></h4>
 				<h6><span class="lang_pl">Specjalista IT</span><span class="lang_en">IT Specialist</span></h6>
 				<!--<p>blablabla</p>-->
 					<div class="ul_margines">
@@ -178,7 +178,7 @@
 			
 	<!--=====================-->
 			<div class="company_details">
-				<h4><span class="lang_pl">Politechnika Warszawska</span><span class="lang_en">Warsaw University of Technology</span><span>Od 2013</span></h4>
+				<h4><span class="lang_pl">Politechnika Warszawska</span><span class="lang_en">Warsaw University of Technology</span><span class="data">Od 2013</span></h4>
 				<h6><span class="lang_pl">Elektronika i Telekomunikacja</span><span class="lang_en">Electronics and telecommunication</span></h6>
 				<p><span class="lang_pl">Studia pierwszego stopnia na kierunku Elektronika i Telekomunikacja, specjalizacja Teleinformatyka, Politechnika Warszawska (tryb zaoczny)</span>
 					<span class="lang_en">First-cycle studies in the field of Electronics and Telecommunications, specialization Teleinformatics, Warsaw University of Technology (extramural)</span></p>
@@ -186,7 +186,7 @@
 			</div>			
 	<!--=====================-->
 			<div class="company_details">
-				<h4><span class="lang_pl">Politechnika Warszawska</span><span class="lang_en">Warsaw University of Technology</span><span>Od 2008</span></h4>
+				<h4><span class="lang_pl">Politechnika Warszawska</span><span class="lang_en">Warsaw University of Technology</span><span class="data">Od 2008</span></h4>
 				<h6><span class="lang_pl">Fizyka Techniczna</span><span class="lang_en">Technical Physics</span></h6>
 				<p><span class="lang_pl">Studia pierwszego stopnia na kierunku Fizyka Techniczna, specjalizacja Fizyka Komputerowa, Politechnika Warszawska</span>
 					<span class="lang_en">First-cycle studies in the field of Technical Physics, specialization in Computer Physics, Warsaw University of Technology</span></p>
@@ -194,7 +194,7 @@
 			</div>			
 	<!--=====================-->
 			<div class="company_details">
-				<h4><span class="lang_pl">LVI Liceum Ogólnokształcące</span><span class="lang_en">LVI High School</span><span>2005 - 2008</span></h4>
+				<h4><span class="lang_pl">LVI Liceum Ogólnokształcące</span><span class="lang_en">LVI High School</span><span class="data">2005 - 2008</span></h4>
 				<h6><span class="lang_pl">Klasa o profilu matematyczno-fizycznym</span><span class="lang_en">A class with a mathematical-physical profile</span></h6>
 				<p><span class="lang_pl">LVI Liceum Ogólnokształcące im. Leona Kruczkowskiego w Warszawie: klasa o profilu matematyczno-fizycznym z rozszerzonym j. rosyjskim</span>
 					<span class="lang_en">LVI High School them. Leon Kruczkowski in Warsaw: a class with a mathematical-physical profile with an extended Russian language</span></p>

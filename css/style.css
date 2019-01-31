@@ -131,7 +131,7 @@ div.address span{
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
-.company_details h4 span,.education_details h4 span{
+.company_details h4 span.data,.education_details h4 span.data{
 	font-size: 0.65em;
   margin-left: 5px;
   color: #999;
