@@ -16,7 +16,7 @@
 	<?php include("menu.php");?>
 	
 		<div class="company contact-grid">
-			<h3 class="clr1"><span class="lang_pl">Kontakt</span><span class="lang_en">Contact</span></h3>
+			<h3 class="clr1"><span class="lang_pl">Kontakt</span><span class="lang_en lang_display_none">Contact</span></h3>
 			<form id="form_Contact" action="send_mail.php" method="POST">	
 				<input type="text" name="name" placeholder="Imię" required>
 				<input type="email" name="email" placeholder="Mail" required>

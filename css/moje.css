@@ -227,6 +227,13 @@ div.address {
 }
 
 /*----------------------------------------------------------------------------------*/
+/* Zabezpieczenie w wypadku braku obsługi JS przez przeglądarkę */
+.lang_display_none
+{
+    display: none;
+}
+
+/*----------------------------------------------------------------------------------*/
 
 @media (max-width: 1024px)
 {
