@@ -35,9 +35,7 @@
                     </a>
                 </div>
             </div>
-            
             <br>
-				
 			<div class="address">
 				<h3><span class="lang_pl">UMIEJĘTNOŚCI</span><span class="lang_en lang_display_none">SKILLS</span></h3>
 				<span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>

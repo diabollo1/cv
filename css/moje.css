@@ -230,7 +230,7 @@ div.address {
 /* Zabezpieczenie w wypadku braku obsługi JS przez przeglądarkę */
 .lang_display_none
 {
-    display: none;
+    display: none !important;
 }
 
 /*----------------------------------------------------------------------------------*/

@@ -39,7 +39,7 @@
 	/*naprawa numeru telefonu*/
 	#number > span:nth-child(1)
 	{
-		display:none;
+		display: none;
 	}
 	#number > span:nth-child(2)
 	{
@@ -56,6 +56,19 @@
     .skill_list
     {
         font-size: 0.9em;
+    }
+    
+    div.address span {
+        display: inline !important;
+    }
+    
+    .lang_display_none {
+        display: none !important;
+    }
+    
+    .malpa {
+    width: 0.9em !important;
+    height: 0.9em !important;
     }
 }
 
