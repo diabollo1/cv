@@ -232,6 +232,8 @@
                         <li><span class="lang_pl">Certyfikat <b>ECDL</b> nr. PL-0116993</span>
                             <span class="lang_en lang_display_none"><b>ECDL</b> certificate no. EN-0116993</span></li>
                             
+                        <li><span class="lang_pl">Szkolenie HPE Education Services <b>Being an Effective Team Member</b></span>
+                            <span class="lang_en lang_display_none">Training HPE Education Services <b>Being an Effective Team Member</b></span></li>
                         <li><span class="lang_pl">Szkolenie <b>Komunikacja i współpraca</b></span>
                             <span class="lang_en lang_display_none">Training <b>Communication and cooperation</b></span></li>
                         <li><span class="lang_pl">Szkolenie <b>Zarządzanie Ryzykiem Operacyjnym</b></span>
