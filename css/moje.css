@@ -226,6 +226,16 @@ div.address {
     margin-top: 15px;
 }
 
+.ul_margin
+{
+    padding-left: 20px
+}
+
+.cert_verification
+{
+    width: 20px;
+}
+
 /*----------------------------------------------------------------------------------*/
 /* Zabezpieczenie w wypadku braku obsługi JS przez przeglądarkę */
 .lang_display_none

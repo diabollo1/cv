@@ -208,7 +208,7 @@
 
 <!--KURSY I CERTYFIKATY================================================-->
         <div class="skills">
-            <h3 class="clr2"><span class="lang_pl">KURSY I CERTYFIKATY</span><span class="lang_en lang_display_none">COURSES AND CERTIFICATES</span></h3>
+            <h3 class="clr2"><span class="lang_pl">KURSY, CERTYFIKATY I SZKOLENIA</span><span class="lang_en lang_display_none">COURSES, CERTIFICATES AND TRAININGS</span></h3>
             <div class="skill_list">
                 <div class="ul_margines ul_margines_CERT demibold">
                     <ul>
@@ -219,15 +219,38 @@
                         <li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
                             <span class="lang_en lang_display_none">Course - What can <b>Javascript</b> be used for?</span></li>
                         
-                        <li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b> - Pałac Kultury i Nauki</span>
-                            <span class="lang_en lang_display_none"><b>Programming and analysis course for intra-network security</b> - Palace of Culture and Science</span></li>
-                        <li><span class="lang_pl">Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b> – Centrum aktywizacji zawodowej s.c.</span>
-                            <span class="lang_en lang_display_none">Computer graphics course - <b>Corel Draw / Photoshop</b> - Center for professional activation sc</span></li>
+                        <li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b></span>
+                            <span class="lang_en lang_display_none"><b>Programming and analysis course for intra-network security</b></span></li>
+                        <li><span class="lang_pl">Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b></span>
+                            <span class="lang_en lang_display_none">Computer graphics course - <b>Corel Draw / Photoshop</b></span></li>
                         <li><span class="lang_pl">Kurs IBM Fundamental System Skills in <b>z/OS</b> - IBM</span>
-                            <span class="lang_en lang_display_none">IBM Fundamental System Skills in <b>z/OS</b> course - IBM</span></li>
+                            <span class="lang_en lang_display_none">IBM Fundamental System Skills in <b>z/OS</b> course</span></li>
                         <li><span class="lang_pl">Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</span>
-                            <span class="lang_en lang_display_none">IBM <b>z/OS JCL and Utilities course</b> - IBM</span></li>
+                            <span class="lang_en lang_display_none">IBM <b>z/OS JCL and Utilities course</b></span></li>
                             
+                        <li><span class="lang_pl">Certyfikaty <b>Google Cloud Platform</b></span>
+                            <span class="lang_en lang_display_none"><b>Google Cloud Platform</b> certificates</span></li>
+                            
+                            <ul class="ul_margin">
+                                <li><span class="lang_pl">Google Cloud Platform Fundamentals: <b>Core Infrastructure</b> 
+                                        <a href="https://coursera.org/verify/M2X8T5QC4BQV" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="M2X8T5QC4BQV" alt="M2X8T5QC4BQV"/></a></span>
+                                    <span class="lang_en lang_display_none">Google Cloud Platform Fundamentals: <b>Core Infrastructure</b> 
+                                        <a href="https://coursera.org/verify/M2X8T5QC4BQV" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="M2X8T5QC4BQV" alt="M2X8T5QC4BQV"/></a></span></li>
+                                <li><span class="lang_pl">Essential Google Cloud Infrastructure: <b>Foundation</b> 
+                                        <a href="https://coursera.org/verify/5P37VDYWC5A3" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="5P37VDYWC5A3" alt="5P37VDYWC5A3"/></a></span>
+                                    <span class="lang_en lang_display_none">Essential Google Cloud Infrastructure: <b>Foundation</b> 
+                                        <a href="https://coursera.org/verify/5P37VDYWC5A3" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="5P37VDYWC5A3" alt="5P37VDYWC5A3"/></a></span></li>
+                                <li><span class="lang_pl">Essential Google Cloud Infrastructure: <b>Core Services</b> 
+                                        <a href="https://coursera.org/verify/FVXVETKUMPY3" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="FVXVETKUMPY3" alt="FVXVETKUMPY3"/></a></span>
+                                    <span class="lang_en lang_display_none">Essential Google Cloud Infrastructure: <b>Core Services</b> 
+                                        <a href="https://coursera.org/verify/FVXVETKUMPY3" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="FVXVETKUMPY3" alt="FVXVETKUMPY3"/></a></span></li>
+                            </ul>
                             
                         <li><span class="lang_pl">Certyfikat <b>ECDL</b> nr. PL-0116993</span>
                             <span class="lang_en lang_display_none"><b>ECDL</b> certificate no. EN-0116993</span></li>
