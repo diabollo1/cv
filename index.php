@@ -232,24 +232,21 @@
                             <span class="lang_en lang_display_none"><b>Google Cloud Platform</b> certificates</span></li>
                             
                             <ul class="ul_margin">
-                                <li><span class="lang_pl">Google Cloud Platform Fundamentals: <b>Core Infrastructure</b> 
-                                        <a href="https://coursera.org/verify/M2X8T5QC4BQV" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="M2X8T5QC4BQV" alt="M2X8T5QC4BQV"/></a></span>
-                                    <span class="lang_en lang_display_none">Google Cloud Platform Fundamentals: <b>Core Infrastructure</b> 
-                                        <a href="https://coursera.org/verify/M2X8T5QC4BQV" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="M2X8T5QC4BQV" alt="M2X8T5QC4BQV"/></a></span></li>
-                                <li><span class="lang_pl">Essential Google Cloud Infrastructure: <b>Foundation</b> 
-                                        <a href="https://coursera.org/verify/5P37VDYWC5A3" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="5P37VDYWC5A3" alt="5P37VDYWC5A3"/></a></span>
-                                    <span class="lang_en lang_display_none">Essential Google Cloud Infrastructure: <b>Foundation</b> 
-                                        <a href="https://coursera.org/verify/5P37VDYWC5A3" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="5P37VDYWC5A3" alt="5P37VDYWC5A3"/></a></span></li>
-                                <li><span class="lang_pl">Essential Google Cloud Infrastructure: <b>Core Services</b> 
-                                        <a href="https://coursera.org/verify/FVXVETKUMPY3" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="FVXVETKUMPY3" alt="FVXVETKUMPY3"/></a></span>
-                                    <span class="lang_en lang_display_none">Essential Google Cloud Infrastructure: <b>Core Services</b> 
-                                        <a href="https://coursera.org/verify/FVXVETKUMPY3" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="FVXVETKUMPY3" alt="FVXVETKUMPY3"/></a></span></li>
+                                <li><span class="lang_pl lang_en"><b>Developing Applications</b> with Google Cloud Platform 
+                                        <a href="https://coursera.org/verify/specialization/KTE2JKGJZ9MG" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="KTE2JKGJZ9MG" alt="KTE2JKGJZ9MG"/></a></span>
+                                <li><span class="lang_pl lang_en"><b>Architecting</b> with Google Compute Engine
+                                        <a href="https://coursera.org/verify/specialization/2PEYWPMQ3MGR" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="2PEYWPMQ3MGR" alt="2PEYWPMQ3MGR"/></a></span>
+                                <li><span class="lang_pl lang_en"><b>Cloud Engineering</b> with Google Cloud
+                                        <a href="  https://coursera.org/verify/specialization/VCZA2HSEYV7F" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="VCZA2HSEYV7F" alt="VCZA2HSEYV7F"/></a></span>
+                                <li><span class="lang_pl lang_en"><b>Security</b> in Google Cloud Platform
+                                        <a href="  https://coursera.org/verify/specialization/8N8QB5W73VDD" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="8N8QB5W73VDD" alt="8N8QB5W73VDD"/></a></span>
+                                <li><span class="lang_pl lang_en">Architecting with Google <b>Kubernetes Engine</b>
+                                        <a href="  https://coursera.org/verify/specialization/TWDGKBQ4A3TB" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="TWDGKBQ4A3TB" alt="TWDGKBQ4A3TB"/></a></span>
                             </ul>
                             
                         <li><span class="lang_pl">Certyfikat <b>ECDL</b> nr. PL-0116993</span>
