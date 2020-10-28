@@ -38,9 +38,9 @@
             <br>
             <div class="address">
                 <h3><span class="lang_pl">UMIEJĘTNOŚCI</span><span class="lang_en lang_display_none">SKILLS</span></h3>
-                <span>Web (HTML, CSS, SQL, JavaScript/jQuery, PHP, XML)</span>
-                <span class="lang_pl">Programowanie (C, C++, Java)</span><span class="lang_en lang_display_none">Programming (C, C ++, Java)</span>
-                <span class="lang_pl">Linux (administracja, skrypty)</span><span class="lang_en lang_display_none">Linux (administration, scripts)</span>
+                <span>Web (PHP, SQL, HTML, CSS, JavaScript/jQuery, AJAX, REST API, XML)</span>
+                <span class="lang_pl">Programowanie (Python, C, C++, Java)</span><span class="lang_en lang_display_none">Programming (Python, C, C ++, Java)</span>
+                <span class="lang_pl">Linux (administracja, skrypty bash)</span><span class="lang_en lang_display_none">Linux (administration, bash scripts)</span>
                 <span class="lang_pl">Windows (skrypty bat,VBS)</span><span class="lang_en lang_display_none">Windows (bat scripts, VBS)</span>
                 <span>Microsoft Office (Visual Basic)</span>
                 <span class="lang_pl">grafika (Photoshop, InDesign, Ilustrator, AutoCAD, Corel Draw, Flash)        </span><span class="lang_en lang_display_none">graphics (Photoshop, InDesign, Ilustrator , AutoCAD, Corel Draw, Flash)</span>

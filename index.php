@@ -23,14 +23,14 @@
                 <h6><span class="lang_pl">Specjalista ds. Monitorowania systemów informatycznych</span>
                 <span class="lang_en lang_display_none">Monitoring of Information Systems Specialist</span></h6>
                 
-                <p><b>HTML, CSS, SQL, JavaScript/jQuery, PHP, XML, Java, Linux/UNIX</b></p>
+                <p><b>PHP, Linux, SQL, HTML, JavaScript/jQuery, CSS, XML, Java</b></p>
                     
                     <div class="ul_margines">
                         <ul>
                             
                             <li>
-                                <span class="lang_pl">administrowanie, utrzymanie oraz zapewnienie ciągłości funkcjonowania narzędzi monitorowania, wspierających eksploatację systemów i infrastruktury IT </span>
-                                <span class="lang_en lang_display_none">administering, maintaining and ensuring the continuity of monitoring tools supporting the operation of IT systems and infrastructure</span>
+                                <span class="lang_pl">tworzenie, administrowanie, utrzymanie oraz zapewnienie ciągłości funkcjonowania narzędzi monitorowania, wspierających eksploatację systemów i infrastruktury IT </span>
+                                <span class="lang_en lang_display_none">creating, administering, maintaining and ensuring the continuity of monitoring tools supporting the operation of IT systems and infrastructure</span>
                             </li>
                             <li>
                                 <span class="lang_pl">projektowanie i budowa systemów wspierających eksploatację i zarządzanie infrastrukturą oraz usługami IT, bazami danych, middleware   </span>
@@ -180,8 +180,8 @@
             <div class="company_details">
                 <h4><span class="lang_pl">Politechnika Warszawska</span><span class="lang_en lang_display_none">Warsaw University of Technology</span><span class="data">Od 2013</span></h4>
                 <h6><span class="lang_pl">Elektronika i Telekomunikacja</span><span class="lang_en lang_display_none">Electronics and telecommunication</span></h6>
-                <p><span class="lang_pl">Studia pierwszego stopnia na kierunku Elektronika i Telekomunikacja, specjalizacja Teleinformatyka, Politechnika Warszawska (tryb zaoczny)</span>
-                    <span class="lang_en lang_display_none">First-cycle studies in the field of Electronics and Telecommunications, specialization Teleinformatics, Warsaw University of Technology (extramural)</span></p>
+                <p><span class="lang_pl">Studia pierwszego stopnia na kierunku Elektronika i Telekomunikacja, specjalizacja Teleinformatyka, Politechnika Warszawska</span>
+                    <span class="lang_en lang_display_none">First-cycle studies in the field of Electronics and Telecommunications, specialization Teleinformatics, Warsaw University of Technology</span></p>
                 <p class="cmpny1"></p>
             </div>            
     <!--=====================-->
@@ -219,6 +219,34 @@
                         <li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
                             <span class="lang_en lang_display_none">Course - What can <b>Javascript</b> be used for?</span></li>
                         
+                        <li><span class="lang_pl">Certyfikaty <b>Google Cloud Platform</b></span>
+                            <span class="lang_en lang_display_none"><b>Google Cloud Platform</b> certificates</span></li>
+                            
+                            <ul class="ul_margin">
+                                <li><span><b>Developing Applications</b> with Google Cloud Platform 
+                                        <a href="https://coursera.org/verify/specialization/KTE2JKGJZ9MG" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="KTE2JKGJZ9MG" alt="KTE2JKGJZ9MG"/></a></span></li>
+                                <li><span><b>Architecting</b> with Google Compute Engine
+                                        <a href="https://coursera.org/verify/specialization/2PEYWPMQ3MGR" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="2PEYWPMQ3MGR" alt="2PEYWPMQ3MGR"/></a></span></li>
+                                <li><span><b>Cloud Engineering</b> with Google Cloud
+                                        <a href="  https://coursera.org/verify/specialization/VCZA2HSEYV7F" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="VCZA2HSEYV7F" alt="VCZA2HSEYV7F"/></a></span></li>
+                                <li><span><b>Security</b> in Google Cloud Platform
+                                        <a href="  https://coursera.org/verify/specialization/8N8QB5W73VDD" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="8N8QB5W73VDD" alt="8N8QB5W73VDD"/></a></span></li>
+                                <li><span>Architecting with Google <b>Kubernetes Engine</b>
+                                        <a href="  https://coursera.org/verify/specialization/TWDGKBQ4A3TB" target="_blank">
+                                            <img class="cert_verification" src="images/verification2.png" title="TWDGKBQ4A3TB" alt="TWDGKBQ4A3TB"/></a></span></li>
+                            </ul>
+                        
+                        <li><span>Crash Course on <b>Python</b>
+                            <a href="https://coursera.org/verify/S8QDJF3RWCGB" target="_blank">
+                                <img class="cert_verification" src="images/verification2.png" title="S8QDJF3RWCGB" alt="S8QDJF3RWCGB"/></a></span></li>
+                        <li><span>Using <b>Python</b> to Interact with the Operating System 
+                            <a href="https://coursera.org/verify/AWJP5KHQ4SL3" target="_blank">
+                                <img class="cert_verification" src="images/verification2.png" title="AWJP5KHQ4SL3" alt="AWJP5KHQ4SL3"/></a></span></li>
+                        
                         <li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b></span>
                             <span class="lang_en lang_display_none"><b>Programming and analysis course for intra-network security</b></span></li>
                         <li><span class="lang_pl">Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b></span>
@@ -227,28 +255,7 @@
                             <span class="lang_en lang_display_none">IBM Fundamental System Skills in <b>z/OS</b> course</span></li>
                         <li><span class="lang_pl">Kurs IBM <b>z/OS JCL and Utilities</b> - IBM</span>
                             <span class="lang_en lang_display_none">IBM <b>z/OS JCL and Utilities course</b></span></li>
-                            
-                        <li><span class="lang_pl">Certyfikaty <b>Google Cloud Platform</b></span>
-                            <span class="lang_en lang_display_none"><b>Google Cloud Platform</b> certificates</span></li>
-                            
-                            <ul class="ul_margin">
-                                <li><span class="lang_pl lang_en"><b>Developing Applications</b> with Google Cloud Platform 
-                                        <a href="https://coursera.org/verify/specialization/KTE2JKGJZ9MG" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="KTE2JKGJZ9MG" alt="KTE2JKGJZ9MG"/></a></span>
-                                <li><span class="lang_pl lang_en"><b>Architecting</b> with Google Compute Engine
-                                        <a href="https://coursera.org/verify/specialization/2PEYWPMQ3MGR" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="2PEYWPMQ3MGR" alt="2PEYWPMQ3MGR"/></a></span>
-                                <li><span class="lang_pl lang_en"><b>Cloud Engineering</b> with Google Cloud
-                                        <a href="  https://coursera.org/verify/specialization/VCZA2HSEYV7F" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="VCZA2HSEYV7F" alt="VCZA2HSEYV7F"/></a></span>
-                                <li><span class="lang_pl lang_en"><b>Security</b> in Google Cloud Platform
-                                        <a href="  https://coursera.org/verify/specialization/8N8QB5W73VDD" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="8N8QB5W73VDD" alt="8N8QB5W73VDD"/></a></span>
-                                <li><span class="lang_pl lang_en">Architecting with Google <b>Kubernetes Engine</b>
-                                        <a href="  https://coursera.org/verify/specialization/TWDGKBQ4A3TB" target="_blank">
-                                            <img class="cert_verification" src="images/verification2.png" title="TWDGKBQ4A3TB" alt="TWDGKBQ4A3TB"/></a></span>
-                            </ul>
-                            
+                        
                         <li><span class="lang_pl">Certyfikat <b>ECDL</b> nr. PL-0116993</span>
                             <span class="lang_en lang_display_none"><b>ECDL</b> certificate no. EN-0116993</span></li>
                             

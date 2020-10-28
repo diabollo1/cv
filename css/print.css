@@ -13,7 +13,7 @@
 	}
 	body
 	{
-	  font-size: 0.79em;
+	  font-size: 1em;
 	}
 	#fotka
 	{
@@ -34,7 +34,12 @@
 	.company_details
 	{
 		page-break-inside: avoid;	/*nie pozwala łamać części tesktu na kolejne strony*/
-	}
+        }
+	.company_details p
+	{
+		font-size: 1em;
+                font-weight: normal;
+        }
 	
 	/*naprawa numeru telefonu*/
 	#number > span:nth-child(1)
@@ -59,7 +64,7 @@
     }
     
     div.address span {
-        display: inline !important;
+        /*display: inline !important;*/
     }
     
     .lang_display_none {
