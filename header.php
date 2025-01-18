@@ -1,7 +1,7 @@
 <div class="col-sm-3 col-md-2 sidebar">
         <div class="sidebar_top">
             <h1>Tomasz Kulinowski</h1> 
-            <img id="fotka" src="images/5.png" alt=""/>
+            <img id="fotka" src="images/my_photo_400x400.png" alt=""/>
         </div>
         
         <div class="details">
@@ -38,6 +38,7 @@
             <br>
             <div class="address">
                 <h3><span class="lang_pl">UMIEJĘTNOŚCI</span><span class="lang_en lang_display_none">SKILLS</span></h3>
+                <span class="lang_pl">Wdrożenia monitorowania (Grafana, Zabbix+API, GCP+API, Azure+API)</span><span class="lang_en lang_display_none">Monitoring implementation (Grafana, Zabbix+API, GCP+API, Azure+API)</span>
                 <span>Web (PHP, SQL, HTML, CSS, JavaScript/jQuery, AJAX, REST API, XML)</span>
                 <span class="lang_pl">Programowanie (Python, C, C++, Java)</span><span class="lang_en lang_display_none">Programming (Python, C, C ++, Java)</span>
                 <span class="lang_pl">Linux (administracja, skrypty bash)</span><span class="lang_en lang_display_none">Linux (administration, bash scripts)</span>

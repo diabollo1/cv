@@ -18,79 +18,113 @@
     
     <!--=====================-->
             <h3 class="clr2"><span class="lang_pl">DOŚWIADCZENIE ZAWODOWE</span><span class="lang_en lang_display_none">EXPERIENCE</span></h3>
-            <div class="company_details">
-                <h4>PKO BP S.A.<span class="lang_pl data">od 2014</span><span class="lang_en lang_display_none data">from 2014</span></h4>
-                <h6><span class="lang_pl">Specjalista ds. Monitorowania systemów informatycznych</span>
-                <span class="lang_en lang_display_none">Monitoring of Information Systems Specialist</span></h6>
+    <!--=====================-->
+<!--            <div class="company_details">
+                <h4>PKO BP S.A.<span class="lang_pl data">od ?</span><span class="lang_en lang_display_none data">from ?</span></h4>
+                <h6><span class="lang_pl">DevOps?</span>
+                <span class="lang_en lang_display_none">DevOps?</span></h6>
                 
-                <p><b>PHP, Linux, SQL, HTML, JavaScript/jQuery, CSS, XML, Java</b></p>
+                <p><b><span class="lang_pl">DevOps</span>
+                    <span class="lang_en lang_display_none">DevOps</span></b></p>
                     
                     <div class="ul_margines">
                         <ul>
-                            
                             <li>
-                                <span class="lang_pl">tworzenie, administrowanie, utrzymanie oraz zapewnienie ciągłości funkcjonowania narzędzi monitorowania, wspierających eksploatację systemów i infrastruktury IT </span>
-                                <span class="lang_en lang_display_none">creating, administering, maintaining and ensuring the continuity of monitoring tools supporting the operation of IT systems and infrastructure</span>
+                                <span class="lang_pl">???</span>
+                                <span class="lang_en lang_display_none">???</span>
                             </li>
-                            <li>
-                                <span class="lang_pl">projektowanie i budowa systemów wspierających eksploatację i zarządzanie infrastrukturą oraz usługami IT, bazami danych, middleware   </span>
-                                <span class="lang_en lang_display_none">design and construction of systems supporting the operation and management of infrastructure and IT services, databases, middleware</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">udział w tworzeniu procedur związanych z eksploatacją systemów informatycznych i infrastruktury, w szczególności wspieranych przez rozwijane i administrowane narzędzia</span>
-                                <span class="lang_en lang_display_none">participation in creating procedures related to the operation of IT systems and infrastructure, in particular supported by developed and administered tools</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">prowadzenie dokumentacji technicznej w zakresie systemów monitorowania, wykrywania sprzętu, gromadzenia danych o usługach, sprzęcie i zdarzeniach</span>
-                                <span class="lang_en lang_display_none">keeping technical documentation in the scope of monitoring systems, hardware detection, data collection about services, equipment and events</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">zbieranie danych i tworzenie raportów z zarządzanych i rozwijanych systemów</span>
-                                <span class="lang_en lang_display_none">collecting data and creating reports on managed and developed systems</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">utrzymanie ciągłości pracy systemów wsparcia eksploatacji</span>
-                                <span class="lang_en lang_display_none">maintaining continuity of operation support systems</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">wsparcie klientów wewnętrznych departamentu</span>
-                                <span class="lang_en lang_display_none">support for internal departments of the department</span>
-                            </li>
-                            <li>
-                                <span class="lang_pl">współpraca z administratorami infrastruktury i usług IT</span>
-                                <span class="lang_en lang_display_none">cooperation with infrastructure and IT services administrators</span>
-                            </li>    
                         </ul>
                     </div>
                 <p class="cmpny1"></p>
-            </div>
+            </div>-->
     <!--=====================-->
             <div class="company_details">
-                <h4>RomDruk<span class="lang_pl data">od 2013</span><span class="lang_en lang_display_none data">from 2013</span></h4>
-                <h6><span class="lang_pl">Grafik</span><span class="lang_en lang_display_none">Graphic Designer</span></h6>
-                <!--<p>blablabla</p>-->
-                <div class="ul_margines">
-                    <ul>
-                        <li><span class="lang_pl">tworzenie projektów w programach <b>InDesign, Ilustrator, Photoshop</b></span><span class="lang_en lang_display_none">creation of projects in <b>InDesign, Ilustrator, Photoshop</b></span></li>
-                        <li><span class="lang_pl">tworzenie i edycja druków dla dużych sieci hotelowych: <i>Marriott, AccorHotels (Sofitel, Mercure, Ibis), Hampton by Hilton, Orbis, Renaissance Hotels, Golden Tulip</i></span>
-                        <span class="lang_en lang_display_none">creation and edition of prints and forms for large hotel chains: <i>Marriott, AccorHotels (Sofitel, Mercure, Ibis), Hampton by Hilton, Orbis, Renaissance Hotels, Golden Tulip</i></span></li>
-                    </ul>
-                </div>
-                <!--
+                <h4>PKO BP S.A.<span class="lang_pl data">od 2022</span><span class="lang_en lang_display_none data">from 2022</span></h4>
+                <h6><span class="lang_pl">DevOps</span>
+                <span class="lang_en lang_display_none">DevOps</span></h6>
+                
+                <p><b><span class="lang_pl">DevOps, CI/CD, IaC, zarządzanie infrastrukturą, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</span>
+                    <span class="lang_en lang_display_none">DevOps, CI/CD, IaC, Infrastructure Management, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</span></b></p>
+                    
                     <div class="ul_margines">
                         <ul>
-                            
-                            <li><li>aaa</li><li>ss</li></li>
+                            <li>
+                                <span class="lang_pl">Udział w projektach i inicjatywach realizowanych w Banku jako DevOps, współpraca z zespołami developerskimi, administratorami, architektami oraz bezpieczeństwem IT, tworzenie narzędzi i rozwiązań wykorzystywanych jako standard przez cały bank, w tym przez departament cyberbezpieczeństwa (DevOps, CI/CD, Terraform, Ansible, Hashicorp Vault)</span>
+                                <span class="lang_en lang_display_none">Participation in projects and initiatives implemented in the Bank as a DevOps, collaborating with development teams, administrators, architects, and IT security, creating tools and solutions used as a standard across the entire bank, including by the cybersecurity department (DevOps, CI/CD, Terraform, Ansible, Hashicorp Vault)</span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">Utrzymanie i rozwój narzędzi wykorzystywanych w obszarze DevOps oraz budowa nowych lub modyfikacja istniejących rozwiązań informatycznych (GitLab, IaC, zarządzanie infrastrukturą, Apache/Nginx, CI/CD)</span>
+                                <span class="lang_en lang_display_none">Maintaining and developing tools used in the DevOps area, as well as building new or modifying existing IT solutions (GitLab, IaC, infrastructure management, Apache/Nginx, CI/CD)</span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">Proponowanie i badanie możliwości wykorzystania innowacji dotyczących systemów i narzędzi informatycznych banku, wdrażanie rozwiązań, które stają się standardem w całym banku (Terraform, Ansible, Hashicorp Vault, CI/CD, IaC)</span>
+                                <span class="lang_en lang_display_none">Proposing and exploring the possibilities of using innovations in the Bank's IT systems and tools, implementing solutions that become a standard across the bank (Terraform, Ansible, Hashicorp Vault, CI/CD, IaC)</span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">Udostępnienie usług sprzętowego modułu bezpieczeństwa (HSM) za pomocą API dla zewnętrznych i wewnętrznych interesariuszy banku</span>
+                                <span class="lang_en lang_display_none">Providing Hardware Security Module (HSM) services via API for external and internal bank stakeholders</span>
+                            </li>
                         </ul>
                     </div>
-                -->
                 <p class="cmpny1"></p>
             </div>
     <!--=====================-->
             <div class="company_details">
-                <h4>PKO BP S.A.<span class="data">2014 - 2017</span></h4>
+                <h4>PKO BP S.A. <span class="data">2020 - 2022</span></h4>
+                <h6><span class="lang_pl">Starszy Specjalista ds. Monitorowania systemów informatycznych</span>
+                <span class="lang_en lang_display_none">Senior IT Systems Monitoring Specialist</span></h6>
+                
+                <p><b><span class="lang_pl">Wdrożenia monitorowania, Grafana, Zabbix, GCP, Azure, Jira REST API, Python, SQL, JavaScript/jQuery, PHP, Linux/Bash</span>
+                    <span class="lang_en lang_display_none">Monitoring implementation, Grafana, Zabbix, GCP, Azure, Jira REST API, Python, SQL, JavaScript/jQuery, PHP, Linux/Bash</span></b></p>
+                    
+                    <div class="ul_margines">
+                        <ul>
+                            <li>
+                                <span class="lang_pl">integracja pomiędzy narzędziami monitoringu a systemami ticketowymi <b>(Jira REST API, Zabbix, PHP)</b></span>
+                                <span class="lang_en lang_display_none">Integration between monitoring tools and ticketing systems <b>(Jira REST API, Zabbix, PHP)</b></span>
+                            </li>   
+                            <li>
+                                <span class="lang_pl">wdrażanie monitorowania usług utrzymywanych w środowiskach chmurowych, przygotowywanie standardów, tworzenie metod monitorowania, automatyzacja <b>(Zabbix API, Grafana, GCP API, Azure API)</b></span>
+                                <span class="lang_en lang_display_none">implementing monitoring of services maintained in cloud environments, preparing standards, creating monitoring methods, automation <b>(Zabbix API, Grafana, GCP API, Azure API)</b></span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">tworenie, utrzymanie i rozwijanie środowisk prezentujących stan monitorowanych urządzeń infrastruktury, aplikacji, sieci jak również danych capacity <b>(Grafana i aplikację własne)</b></span>
+                                <span class="lang_en lang_display_none">creating, maintaining and developing environments presenting the state of monitored infrastructure devices, applications, networks as well as data capacity <b>(Grafana and own application)</b></span>
+                            </li>  
+                        </ul>
+                    </div>
+                <p class="cmpny1"></p>
+            </div>
+    <!--=====================-->
+            <div class="company_details">
+                <h4>PKO BP S.A. <span class="data">2018 - 2020</span></h4>
+                <h6><span class="lang_pl">Specjalista ds. Monitorowania systemów informatycznych</span>
+                <span class="lang_en lang_display_none">IT Systems Monitoring Specialist</span></h6>
+                
+                <p><b>PHP, Linux/Bash, SQL, HTML, JavaScript/jQuery, CSS, XML, Java</b></p>
+                    <div class="ul_margines">
+                        <ul>
+                            <li>
+                                <span class="lang_pl">tworzenie i utrzymanie narzędzi IT: projektowanie, administrowanie oraz zapewnienie ciągłości działania systemów monitorujących i wspierających eksploatację infrastruktury IT (PHP, Bash, SQL, HTML, JavaScript/jQuery, CSS, XML, Java)</span>
+                                <span class="lang_en lang_display_none">creating and maintaining IT tools: designing, administering, and ensuring the continuity of systems monitoring and supporting the operation of IT infrastructure (PHP, Bash, SQL, HTML, JavaScript/jQuery, CSS, XML, Java)</span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">rozwój i dokumentacja systemów: projektowanie systemów wspierających zarządzanie usługami IT oraz tworzenie dokumentacji technicznej i raportów dotyczących monitorowania, wykrywania sprzętu oraz gromadzenia danych (XML, SQL, PHP)</span>
+                                <span class="lang_en lang_display_none">development and documentation of systems: designing systems supporting IT service management and creating technical documentation and reports related to monitoring, hardware detection, and data collection (XML, SQL, PHP)</span>
+                            </li>
+                            <li>
+                                <span class="lang_pl">wsparcie i współpraca: wsparcie techniczne klientów wewnętrznych oraz współpraca z administratorami infrastruktury i usług IT (Linux/Bash, Jira REST API)</span>
+                                <span class="lang_en lang_display_none">support and collaboration: providing technical support to internal clients and cooperating with IT infrastructure and service administrators (Linux/Bash, Middleware, Jira REST API)</span>
+                            </li>
+                        </ul>
+                    </div>
+                <p class="cmpny1"></p>
+            </div>
+    <!--=====================-->
+            <div class="company_details">
+                <h4>PKO BP S.A.<span class="data">2014 - 2018</span></h4>
                 <h6><span class="lang_pl">Operator IT</span><span class="lang_en lang_display_none">IT Operator</span></h6>
-                <!--<p>blablabla</p>-->
+                <p>HTML, PHP, MySQL, jQuery, XML, VBA, VBS</p>
                     <div class="ul_margines">
                         <ul>
                             <li><span class="lang_pl">tworzenie narzędzi do monitorowania struktury teleinformatycznej banku (<b>HTML, PHP, MySQL, jQuery, XML</b>)</span>
@@ -103,6 +137,20 @@
                                 <span class="lang_en lang_display_none">servicing of IT data processing systems - <i>Sygnity Flexcube</i></span></li>
                         </ul>
                     </div>
+                <p class="cmpny1"></p>
+            </div>
+    <!--=====================-->
+            <div class="company_details">
+                <h4>RomDruk<span class="data">2013-2022</span></h4>
+                <h6><span class="lang_pl">Grafik</span><span class="lang_en lang_display_none">Graphic Designer</span></h6>
+                <!--<p>blablabla</p>-->
+                <div class="ul_margines">
+                    <ul>
+                        <li><span class="lang_pl">tworzenie projektów w programach <b>InDesign, Ilustrator, Photoshop</b></span><span class="lang_en lang_display_none">creation of projects in <b>InDesign, Ilustrator, Photoshop</b></span></li>
+                        <li><span class="lang_pl">tworzenie i edycja druków dla dużych sieci hotelowych: <i>Marriott, AccorHotels (Sofitel, Mercure, Ibis), Hampton by Hilton, Orbis, Renaissance Hotels, Golden Tulip</i></span>
+                        <span class="lang_en lang_display_none">creation and edition of prints and forms for large hotel chains: <i>Marriott, AccorHotels (Sofitel, Mercure, Ibis), Hampton by Hilton, Orbis, Renaissance Hotels, Golden Tulip</i></span></li>
+                    </ul>
+                </div>
                 <p class="cmpny1"></p>
             </div>
     <!--=====================-->
@@ -212,16 +260,8 @@
             <div class="skill_list">
                 <div class="ul_margines ul_margines_CERT demibold">
                     <ul>
-                        <li><span class="lang_pl">Kurs - <b>Programista PHP</b> - PHP, HTML, CSS, XML, projektowanie baz danych, programowanie obiektowe, Javascript, wstęp do AJAX</span>
-                            <span class="lang_en lang_display_none">Course - <b>PHP programmer</b> - PHP, HTML, CSS, XML, database design, object programming, Javascript, introduction to AJAX</span></li>
-                        <li><span class="lang_pl">Kurs - <b>Responsive Web Design</b> - Wprowadzenie do projektowania nowoczesnych stron</span>
-                            <span class="lang_en lang_display_none">Course - <b>Responsive Web Design</b> - Introduction to the design of modern websites</span></li>
-                        <li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
-                            <span class="lang_en lang_display_none">Course - What can <b>Javascript</b> be used for?</span></li>
-                        
                         <li><span class="lang_pl">Certyfikaty <b>Google Cloud Platform</b></span>
                             <span class="lang_en lang_display_none"><b>Google Cloud Platform</b> certificates</span></li>
-                            
                             <ul class="ul_margin">
                                 <li><span><b>Developing Applications</b> with Google Cloud Platform 
                                         <a href="https://coursera.org/verify/specialization/KTE2JKGJZ9MG" target="_blank">
@@ -246,7 +286,13 @@
                         <li><span>Using <b>Python</b> to Interact with the Operating System 
                             <a href="https://coursera.org/verify/AWJP5KHQ4SL3" target="_blank">
                                 <img class="cert_verification" src="images/verification2.png" title="AWJP5KHQ4SL3" alt="AWJP5KHQ4SL3"/></a></span></li>
-                        
+                                
+                        <li><span class="lang_pl">Kurs - <b>Programista PHP</b> - PHP, HTML, CSS, XML, projektowanie baz danych, programowanie obiektowe, Javascript, wstęp do AJAX</span>
+                            <span class="lang_en lang_display_none">Course - <b>PHP programmer</b> - PHP, HTML, CSS, XML, database design, object programming, Javascript, introduction to AJAX</span></li>
+                        <li><span class="lang_pl">Kurs - <b>Responsive Web Design</b> - Wprowadzenie do projektowania nowoczesnych stron</span>
+                            <span class="lang_en lang_display_none">Course - <b>Responsive Web Design</b> - Introduction to the design of modern websites</span></li>
+                        <li><span class="lang_pl">Kurs - Do czego można wykorzystać język <b>Javascript</b></span>
+                            <span class="lang_en lang_display_none">Course - What can <b>Javascript</b> be used for?</span></li>
                         <li><span class="lang_pl">Kurs <b>programowania i analizy zabezpieczeń wewnątrzsieciowych</b></span>
                             <span class="lang_en lang_display_none"><b>Programming and analysis course for intra-network security</b></span></li>
                         <li><span class="lang_pl">Kurs grafiki komputerowej – <b>Corel Draw/Photoshop</b></span>
