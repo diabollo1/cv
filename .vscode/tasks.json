@@ -1,0 +1,31 @@
+// filepath: /.vscode/tasks.json
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run PHP Server",
+            "type": "shell",
+            "command": "php",
+            "args": [
+                "-S",
+                "localhost:8000"
+            ],
+            "problemMatcher": [],
+            "isBackground": true,
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Open Browser",
+            "type": "shell",
+            "command": "start",
+            "args": [
+                "http://localhost:8000"
+            ],
+            "problemMatcher": [],
+            "dependsOn": "Run PHP Server"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+name: FTP Deploy to CyberFolks
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  ftp-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@v4
+      with:
+        server: s145.cyber-folks.pl
+        username: diabollo
+        password: ${{ secrets.FTP_PASSWORD_CYBER_FOLKS }}
+        server-dir: public_html/
+        local-dir: ./

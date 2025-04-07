@@ -43,8 +43,8 @@
                 <h6><span class="lang_pl">DevOps</span>
                 <span class="lang_en lang_display_none">DevOps</span></h6>
                 
-                <p><b><span class="lang_pl">DevOps, CI/CD, IaC, zarządzanie infrastrukturą, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</span>
-                    <span class="lang_en lang_display_none">DevOps, CI/CD, IaC, Infrastructure Management, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</span></b></p>
+                <p><b><span class="bold-text lang_pl">DevOps, CI/CD, IaC, zarządzanie infrastrukturą, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</span>
+                    <span class="lang_en lang_display_none">DevOps, CI/CD, IaC, Infrastructure Management, Terraform, GitLab, Ansible, Hashicorp Vault, Apache/Nginx, ArgoCD, HSM</b></span></p>
                     
                     <div class="ul_margines">
                         <ul>
@@ -124,7 +124,7 @@
             <div class="company_details">
                 <h4>PKO BP S.A.<span class="data">2014 - 2018</span></h4>
                 <h6><span class="lang_pl">Operator IT</span><span class="lang_en lang_display_none">IT Operator</span></h6>
-                <p>HTML, PHP, MySQL, jQuery, XML, VBA, VBS</p>
+                <p><b>HTML, PHP, MySQL, jQuery, XML, VBA, VBS</b></p>
                     <div class="ul_margines">
                         <ul>
                             <li><span class="lang_pl">tworzenie narzędzi do monitorowania struktury teleinformatycznej banku (<b>HTML, PHP, MySQL, jQuery, XML</b>)</span>
@@ -143,7 +143,7 @@
             <div class="company_details">
                 <h4>RomDruk<span class="data">2013-2022</span></h4>
                 <h6><span class="lang_pl">Grafik</span><span class="lang_en lang_display_none">Graphic Designer</span></h6>
-                <!--<p>blablabla</p>-->
+                <p><b>InDesign, Ilustrator, Photoshop</b></p>
                 <div class="ul_margines">
                     <ul>
                         <li><span class="lang_pl">tworzenie projektów w programach <b>InDesign, Ilustrator, Photoshop</b></span><span class="lang_en lang_display_none">creation of projects in <b>InDesign, Ilustrator, Photoshop</b></span></li>
